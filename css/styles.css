@@ -1,0 +1,188 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: content-box; */
+   /* Oculta o overflow horizontal */
+  /* Mostra barras de rolagem vertical quando necessário */
+}
+
+body {
+  overflow-x: hidden !important; /* Oculta o overflow horizontal */
+    overflow-y: auto !important; /* Mostra barras de rolagem vertical quando necessário */
+}
+
+
+/* Estilo para a caixa de fundo */
+.header {
+  width: 100vw;
+  height: 100vh;
+
+  /* Configurando a imagem de fundo */
+  background-image: url('../images/bg.jpg'); /* Coloque o caminho da imagem de fundo */
+  background-size: cover; /* Faz a imagem cobrir todo o espaço do elemento */
+  background-position: bottom; /* Centraliza a imagem de fundo */
+  background-repeat: no-repeat; /* Impede repetição da imagem de fundo */
+  background-attachment: fixed; /* Mantém o background fixo quando rolar a página */
+
+  /* Cor preta com opacidade sobreposta à imagem */
+  position: relative; /* Habilita a posição relativa para o elemento */
+
+  /* Display flex para centralizar o texto dentro da caixa */
+  display: grid;
+  align-items: center;
+  justify-content: center;
+
+  /* Definindo o z-index do texto para garantir que fique acima da sobreposição preta */
+  z-index: 2; /* Mais alto do que o z-index da sobreposição preta */
+  
+  /* Cor branca para o texto */
+  color: white;
+
+  text-align: center;
+}
+
+.header h1 {
+  z-index: 3;
+  color: white;
+  text-align: center;
+  display: block !important;
+  width: 100%;
+  display: block;
+  margin-top: 200px;
+  
+}
+
+.title1 {
+  font-size: 3em;
+  font-weight: 100;
+  font-family:  'Montserrat';
+  /* background: goldenrod; */
+  line-height: 3px;
+}
+.title2 {
+  font-size: 2em;
+  font-weight: 700;
+  font-family:  'Montserrat';
+  font-style: normal;
+  color: #df8b35;
+  line-height: 80px;
+  /* height: 100px; */
+  /* background: red; */
+  display: inline;
+}
+.title3 {
+  font-size: 0.5em;
+  font-weight: 300;
+  font-family:  'Montserrat';
+  font-style: normal;
+  line-height: 1px;
+  /* background-color: aqua; */
+  letter-spacing: 5px;
+}
+
+/* Elemento filho para a sobreposição preta */
+.header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  /* Cor preta com opacidade */
+  background-color: rgba(0, 0, 0, 0.7);
+
+  /* Z-index para posicionar a sobreposição abaixo do conteúdo */
+  z-index: 1; /* Certifique-se de que este z-index seja menor que o z-index do conteúdo */
+}
+
+
+.sobremim {
+  z-index: 4 !important;
+  color: white !important;
+}
+
+.link-sobremim {
+  color: white;
+  border: 2px solid white;
+  padding: 8px 15px;
+  text-decoration: none;
+  font-size: 1em;
+  /* margin: 100px 0 !important; */
+  letter-spacing: 0px;
+  line-height: 140px;
+}
+
+.link-sobremim:hover {
+  background: white;
+  cursor: pointer;
+}
+
+.header ul{
+  list-style: none;
+  width: 100%;
+  z-index: 5;
+  text-align: center;
+  /* background: red; */
+  margin: 0;
+  padding: 0;
+}
+.header ul li{
+  display: inline;
+  color: white;
+  margin: 0 10px;
+  text-align: center;
+  /* background: white; */
+}
+
+.header ul li a{
+ text-decoration: none;
+}
+.header ul li a i:hover{
+ cursor: pointer;
+ 
+}
+
+/* about */
+.about-img {
+  width: 200px;
+}
+
+/* profile */
+.profile {
+  background: white;
+  padding: 50px 0;
+}
+
+@media (max-width: 767px) {
+
+  .header h1{
+    font-size: 1em !important;
+  }
+
+  .header .social i {
+    font-size: 30px;
+  }
+  .header .roles {
+    font-size: 18px !important;
+  }
+  .about-content {
+    flex-direction: column;
+  }
+  .stats .stat {
+    border-right: 0 !important;
+    margin-bottom: 40px;
+    border-bottom: var(--bs-dark) solid 1px;
+    padding-bottom: 20px;
+  }
+
+  .about {
+    width: 98%;
+    margin: 0 auto;
+  }
+}
+
+
+
