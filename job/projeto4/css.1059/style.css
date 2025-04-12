@@ -1,0 +1,830 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat';
+    font-size: 1em;
+    box-sizing: content-box;
+    /* overflow: hidden; */
+}
+
+/* header */
+
+.main {
+    background-image: url('../images/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 700px;
+    background-attachment: fixed;
+    position: relative;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   
+}
+
+.main-img {
+    background-color: rgba(0, 0, 0, 0.800);
+    z-index: -1;
+    min-height: 700px;
+
+}
+
+.nav-link {
+    font-family: 'Roboto' !important;
+    font-weight: 200 !important;
+
+}
+
+.nav-link:hover {
+    font-family: 'Roboto' !important;
+    font-weight: 200 !important;
+    color: #f0c5ae !important;
+    font-weight: 500 !important;
+
+}
+
+.headerCopy {
+    padding-top: 150px;
+    text-align: center;
+    margin: 0 auto;
+    display: grid;
+
+}
+
+.headerCopy h1 {
+    font-size: 4em;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    width: 100%;
+
+
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
+
+/* Ajuste do posicionamento do menu dropdown */
+.navbar-collapse {
+
+    top: 100%;
+    /* Posiciona o menu dropdown abaixo do botão */
+    right: 0;
+    /* Posiciona o menu à direita */
+    left: 0;
+    z-index: 1000 !important;
+    /* Defina um valor alto para garantir que o menu esteja acima do conteúdo */
+    background-color: rgba(0, 0, 0, 0.597);
+    padding: 10px;
+}
+
+.headerCopy .headerCopySub {
+    margin: 0 auto !important;
+    /* width: auto !important; */
+    /* background-color: red !important; */
+    text-align: center;
+    position: relative;
+    /* float: left; */
+}
+
+.headerCopySub {
+    /* background-color: red !important; */
+    height: 68px !important;
+}
+
+
+
+.texto-efeito {
+    color: white;
+    font-size: 2em;
+    padding: 10px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    background-color: #d59470;
+
+
+    position: relative;
+    border-right: 2px solid #6b4723;
+    /* Linha vertical simulando o cursor */
+    white-space: nowrap;
+    /* Evita quebra de linha no texto */
+    overflow: hidden;
+    /* Esconde texto que ultrapassa o limite da largura */
+    height: auto;
+    /* Altura para centralizar verticalmente */
+    display: inline-block;
+    /* Utilizamos display inline-block para o texto ocupar apenas o espaço necessário */
+}
+
+
+
+
+/* /header */
+
+/* aside */
+
+/* isso é no desktop */
+.melhorEquipe {
+    position: relative;
+    margin-top: -80px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.melhorEquipeMain {
+    background-color: #d59470;
+    border-radius: 20px;
+    box-shadow: 2px 3px 10px #976447;
+    padding: 20px 50px !important;
+    align-items: center;
+    display: flex;
+
+}
+
+.iconMelhorEquipe {
+    float: left;
+    /* background-color: red; */
+    padding: 10px
+}
+
+.iconMelhorEquipe img {
+    width: 100px;
+}
+
+.textoMelhorEquipe {
+    color: white;
+    font-size: 1em;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-style: italic;
+    /* background-color: green; */
+    padding: 10px;
+
+}
+
+/* /aside */
+
+/* economize */
+
+.economize {
+
+    padding: 50px 0;
+}
+
+.iconEconomize h1 {
+    font-size: 4em;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+    color: #706863;
+}
+
+.iconEconomize {
+
+    text-align: center;
+    /* background-color: red; */
+    margin: 0 auto;
+}
+
+.iconEconomize img {
+    width: 100px;
+    text-align: center;
+    /* background-color: red; */
+    margin: 0 auto;
+}
+
+.economizeTextoImagem {
+    /* background-color: red; */
+}
+
+.textoRevisao {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    color: #242120;
+}
+
+.iconTituloRevisao {
+
+    /* background-color: #45bd23; */
+    float: left;
+    ;
+
+
+
+}
+
+.iconTituloRevisao-esq {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    background-color: #ececec;
+    border-radius: 100%;
+    float: left;
+}
+
+.iconTituloRevisao img {
+    width: 30px;
+
+
+}
+
+.textoTituloRevisao {
+
+    font-size: 1em;
+    font-weight: 900;
+    font-style: italic;
+    color: #706863;
+
+    margin: 0;
+    padding: 0;
+    display: block;
+
+    /* background-color: red !important; */
+    padding-left: 10px;
+    float: left;
+}
+
+.textoTituloRevisaoDir h1 {
+
+    font-size: 2em;
+    font-weight: 900;
+    font-style: italic;
+    color: #706863;
+    /* margin-left: 20px !important; */
+    margin-bottom: 0;
+    padding: 0;
+    /* background-color: #45bd23; */
+    line-height: 36px;
+    float: left;
+    width: 100%;
+
+
+}
+
+.textoTituloRevisaoDir p {
+
+    font-size: 0.9em;
+    font-weight: 600;
+    font-style: normal;
+
+    color: #706863;
+    /* background-color: red; */
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+    line-height: 12px;
+
+
+}
+
+.textoRevisaoParagrafo {
+    margin-top: 20px;
+    float: left;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+.textoRevisaoParagrafo1 {
+    font-weight: 800;
+    background-color: #eaff60;
+}
+
+.textoRevisaoParagrafo2 {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 800;
+    color: #e50000;
+}
+
+.textoRevisaoParagrafo3,
+.textoRevisaoParagrafo4 {
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: 600 !important;
+}
+
+/* /economize */
+
+/* numeros */
+.numeros {
+    background: #e4b04a;
+    padding: 50px 10px;
+}
+
+.numeros img {
+    width: 80px;
+}
+
+.numeros h4 {
+    font-family: 'Montserrat';
+    color: white;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 2em;
+}
+
+.numeros p {
+    font-family: 'Montserrat';
+    color: #5a5451;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+/* /numeros */
+
+/* nosso trabalho */
+
+
+
+.nossoTrabalho {
+    background-image: url('../images/bg2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* min-height: 700px; */
+    background-attachment: fixed;
+    position: relative;
+    text-align: justify;
+}
+
+.trabalho-img {
+    background-color: #5a5450ee;
+    z-index: -1;
+    padding: 100px 0;
+
+}
+
+.nossoTrabalho img {
+    width: 200px;
+}
+
+.nossoTrabalho h2 {
+    font-size: 4em;
+    font-family: 'Montserrat';
+    color: white;
+    font-weight: 900;
+    margin: 30px 0;
+    font-style: italic;
+}
+
+.nossoTrabalho h3 {
+    font-size: 2em;
+    font-family: 'Montserrat';
+    color: #e4b04a;
+    font-weight: 900;
+    /* margin: 30px 0; */
+    font-style: italic;
+}
+
+.nossoTrabalho h4 {
+    font-size: 1.3em;
+    font-family: 'Montserrat';
+    color: #e4b04a;
+    font-weight: 600;
+    /* margin: 30px 0; */
+    font-style: italic;
+}
+
+.nossoTrabalho p {
+    color: white;
+    font-family: 'Roboto';
+    font-weight: 300;
+
+}
+
+.nossoTrabalho ul {
+    list-style: none;
+}
+
+.nossoTrabalho ul li {
+    color: white;
+    margin: 10px 0;
+    font-size: 1em;
+}
+
+.nossoTrabalho blockquote p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.4em;
+    text-align: center;
+    font-style: italic;
+    color: #e4b04a;
+    width: 80%;
+}
+
+/* /nosso trabalho */
+
+/* diferencial */
+.diferencial {}
+
+.diferencial ul li {
+    margin: 20px 0;
+    font-style: italic;
+
+}
+
+
+.diferencial img {
+    width: 30px;
+}
+
+.diferencial .medal {
+    width: 100px;
+}
+
+.diferencial h2 {
+    font-size: 4em;
+    font-family: 'Montserrat';
+    color: #e4b04a;
+    font-weight: 900;
+    margin: 10px 0 0 0;
+    font-style: italic;
+}
+
+.diferencial h3 {
+    font-size: 1.5em;
+    font-family: 'Montserrat';
+    color: #4c4642;
+    font-weight: 400;
+    /* margin: 30px 0; */
+    font-style: italic;
+}
+
+/* /diferencial */
+
+/* faq */
+
+.faq {
+    background-color: #f6f6f6;
+
+    text-align: center;
+}
+
+.faq img {
+    width: 100px;
+}
+
+.faq h2 {
+    font-size: 4em;
+    font-family: 'Montserrat';
+    color: #4c4642;
+    font-weight: 900;
+    margin: 10px 0 0 0;
+    font-style: italic;
+}
+
+.faq h3 {
+    font-size: 1.5em;
+    font-family: 'Montserrat';
+    color: #4c4642;
+    font-weight: 400;
+    /* margin: 30px 0; */
+    font-style: italic;
+}
+
+
+
+.faq .accordion-button {
+    width: 100%;
+    background-color: #f8f9fa;
+    border: none;
+    border-radius: 0;
+    /* padding: 15px 20px; */
+    font-weight: bold;
+    text-align: left;
+    color: #333;
+    /* margin-bottom: 5px; */
+}
+
+.faq .accordion-button i {
+    margin-right: 10px;
+}
+
+.faq .accordion-body {
+
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.accordion-button {
+    font-size: 1em !important;
+    font-family: 'Montserrat' !important;
+    font-weight: 400 !important;
+    color: #4c4642;
+    /* padding: 20px 0 !important; */
+}
+
+/* /faq */
+
+/* contato */
+.contato {
+    background-color: white;
+    padding: 80px 0 !important;
+}
+
+.contato img {
+    width: 100px;
+}
+
+.contato .mapa {
+    /* height: 500px; */
+    width: auto;
+    border: 1px solid #5a545143;
+}
+
+.contato .instituicao {
+    width: 150px;
+
+}
+
+.contato h2 {
+    font-size: 4em;
+    font-family: 'Montserrat';
+    color: #4c4642;
+    font-weight: 900;
+    margin: 10px 0 0 0;
+    font-style: italic;
+}
+
+.contato h3 {
+    font-size: 1.5em;
+    font-family: 'Montserrat';
+    color: #4c4642;
+    font-weight: 400;
+    /* margin: 30px 0; */
+    font-style: italic;
+}
+
+
+.contato-info {
+    /* background-color: red; */
+    text-align: justify;
+}
+
+.contato h4 {
+    font-size: 1.2em;
+    font-family: 'Montserrat';
+    color: #4c4642;
+    font-weight: 400;
+    /* margin: 30px 0; */
+    font-style: italic;
+    text-align: left;
+}
+
+.mapaimagem {
+    text-align: right !important;
+    /* background-color: red; */
+}
+
+/* /contato */
+
+/* pagamento */
+
+.pagamento {
+    background-color: #f8f8f8;
+
+}
+
+.pagamento h2 {
+    font-size: 4em;
+    font-family: 'Montserrat';
+    color: #4c4642;
+    font-weight: 900;
+    margin: 10px 0 0 0;
+    font-style: italic;
+}
+
+.pagamento img {
+    width: 150px;
+}
+
+/* /pagamento */
+
+/* whatsapp */
+/* Estilos para o botão flutuante do WhatsApp */
+        .whatsapp-button {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 999;
+            /* background-color: #25d366; */
+            padding: 10px;
+            border-radius: 50%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .whatsapp-button img {
+            width: 40px;
+            height: 40px;
+        }
+/* /whatsapp */
+
+/* button whatsapp */
+
+/* Estilos para o botão flutuante do WhatsApp */
+.whatsapp-button1 {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 999;
+    background-color: #25d366;
+    padding: 10px 20px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s; /* Efeito de transição */
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Efeito 3D ao clicar no botão */
+.whatsapp-button1:active {
+    transform: translateY(2px);
+}
+/* button whatsapp */
+
+
+
+
+.footer {
+    background-color: #333231;
+    padding: 80px 0;
+    color: white;
+    font-size: 0.8em !important;
+}
+
+.footer img {
+    width: 200px;
+}
+
+.footer ul {
+    margin: 20px 0;
+}
+
+.footer p {
+    margin: 10px 0;
+}
+
+.logoagencia {
+    width: 150px;
+}
+
+.mulher1 {
+    display: none;
+}
+
+.homem1 {
+    display: none;
+}
+
+
+
+
+
+@media (min-width: 768px) {
+    .navbar-collapse {
+
+        top: 100%;
+        /* Posiciona o menu dropdown abaixo do botão */
+        right: 0;
+        /* Posiciona o menu à direita */
+        left: 0;
+        z-index: 1000 !important;
+        /* Defina um valor alto para garantir que o menu esteja acima do conteúdo */
+        /* background-color: rgba(0, 0, 0, 0.597); */
+        background: none;
+        padding: 10px;
+    }
+
+ 
+
+}
+@media (max-width: 768px) {
+ 
+
+    .headerCopy {
+        padding-top: 100px !important;
+        text-align: center;
+        margin: 0 auto;
+        display: grid;
+    
+    }
+    
+    .headerCopy h1 {
+        font-size: 2em !important;
+        font-family: 'Montserrat';
+        font-weight: 900;
+        color: white;
+        text-align: center;
+        width: 100%;
+    
+    
+    }
+
+    .headerCopySub {
+        font-size: 0.7em !important;
+    }
+
+    .melhorEquipe {
+        width: 98% !important;
+    }
+
+    .economize h1 {
+        font-size: 3em !important;
+    }
+
+    .iconEconomize img {
+        width: 60px;
+    }
+
+    .iconTituloRevisao {
+        /* background-color: red; */
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+        display: grid;
+    }
+
+    .iconTituloRevisao-esq {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .textoTituloRevisao {
+        /* background-color: red; */
+        text-align: center;
+        margin: 10px 0;
+    }
+
+   .mulher1 {
+    display: block;
+   }
+
+   .mulher {
+    display: none;
+   }
+
+   .homem1 {
+    display: block;
+   }
+
+   .homem {
+    display: none;
+   }
+
+   .textoTituloRevisao {
+    /* background-color: red; */
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+   }
+
+   .trabalho-img h3 {
+    text-align: left !important;
+    /* background-color: red; */
+    font-size: 1.5em;
+   }
+
+   .diferencial h2 {
+    font-size: 2em !important;
+   }
+
+   .faq h2 {
+    font-size: 2em;
+   }
+   .contato h2 {
+    font-size: 2em;
+   }
+   .pagamento h2 {
+    font-size: 2em;
+   }
+
+   /* Estilos para o botão lateral fixo */
+   .fixed-button {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 999;
+}
+
+.whatsapp-button1 {
+    display: block;
+    background-color: #25d366;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    font-weight: bold;
+}
+ 
+
+}

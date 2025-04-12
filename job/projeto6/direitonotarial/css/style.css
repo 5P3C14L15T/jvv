@@ -1,0 +1,319 @@
+/* reset */
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(37, 55, 32);
+  background: linear-gradient(
+    270deg,
+    rgba(37, 55, 32, 1) 0%,
+    rgba(39, 62, 35, 1) 35%,
+    rgba(46, 85, 39, 1) 100%
+  );
+  color: rgb(242, 242, 242);
+}
+
+.principal {
+  background-image: url("../img/bgheader.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.menu {
+  /* background: red; */
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.title {
+  width: 100%;
+
+  margin-bottom: 0;
+  padding: 0;
+  display: block;
+  float: left;
+}
+
+.title > .title_1 {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 2em !important;
+  letter-spacing: -4px;
+  color: antiquewhite;
+  margin-bottom: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+.title > .title_2 {
+  font-family: "Roboto";
+  font-weight: 900;
+  font-size: 2em !important;
+  letter-spacing: -4px;
+  color: rgb(255, 224, 69);
+  margin-bottom: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+.seta {
+  float: left;
+}
+
+.mec {
+  font-size: 3em;
+  font-family: "Roboto";
+  color: rgb(206, 206, 206);
+  /* background: red; */
+  margin-top: 50px;
+  float: left;
+}
+
+.nome_curso {
+  font-size: 2em;
+  font-family: "Roboto";
+  font-weight: 300;
+  margin-top: 50px;
+  background: rgb(62, 88, 49);
+  padding: 10px;
+  float: left;
+  width: 100%;
+  color: bisque;
+}
+
+.desc {
+  color: antiquewhite;
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 1.2em;
+  /* background: red; */
+}
+
+.preco {
+  font-size: 1.5em;
+  font-family: "Roboto";
+  font-weight: 900;
+  letter-spacing: -2px;
+}
+
+/* lado direiro */
+
+.formulario {
+  background: white;
+  padding: 4%;
+  border: 20px solid rgb(126, 113, 96);
+  margin-bottom: 100px;
+}
+
+.infotitle {
+  text-align: center;
+  font-family: "Comfortaa";
+  font-weight: 700;
+  color: rgb(72, 78, 74);
+}
+
+.formlp {
+  color: rgb(142, 142, 142);
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  min-height: 50px;
+  line-height: 50px;
+}
+.formulario label {
+  display: block;
+  margin-bottom: -13px;
+  font-family: "Comfortaa";
+  font-weight: 300;
+}
+
+.form-control-lp {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  font-family: "Comfortaa";
+  font-weight: 300;
+}
+.form-control-lp2 {
+  min-height: 50px;
+  padding: 5px;
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  font-family: "Comfortaa";
+  font-weight: 300;
+}
+
+.btn-lp {
+  width: 100%;
+  min-height: 50px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  font-family: "Comfortaa";
+  font-weight: 700;
+  background: rgb(83, 131, 104);
+  color: #ccc;
+}
+
+/* primeira dobra da pós */
+
+.dobra1 {
+  background: rgb(28, 38, 25);
+  background: linear-gradient(
+    270deg,
+    rgba(28, 38, 25, 1) 0%,
+    rgba(28, 37, 26, 1) 35%,
+    rgba(17, 22, 17, 1) 100%
+  );
+  padding-bottom: 100px;
+}
+.separador1 {
+  background: rgb(28, 38, 25);
+  background: linear-gradient(
+    270deg,
+    rgba(28, 38, 25, 1) 0%,
+    rgba(28, 37, 26, 1) 35%,
+    rgba(17, 22, 17, 1) 100%
+  );
+  min-height: 100px;
+}
+
+.sobre {
+  background: rgb(239, 239, 239);
+  border-radius: 10px;
+  margin-top: 30px;
+  color: rgb(35, 40, 33);
+  padding: 20px;
+}
+.modulos {
+  background: rgb(239, 239, 239);
+  border-radius: 10px;
+  margin-top: 30px;
+  color: rgb(35, 40, 33);
+  padding: 20px;
+}
+
+
+
+.ladoesquerdo {
+  font-family: "Roboto";
+}
+.ladoesquerdo ul {
+  list-style: none;
+}
+
+.sobrecurso {
+  font-size: 2em;
+  color: rgb(71, 71, 71);
+  font-family: "roboto";
+  font-weight: 500;
+  background: rgb(227, 227, 227);
+  padding: 10px;
+  border-radius: 8px;
+}
+.praquem {
+  font-size: 2em;
+  color: rgb(71, 71, 71);
+  font-family: "roboto";
+  font-weight: 100;
+  background: rgb(227, 227, 227);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.professores {
+  background: rgb(239, 239, 239);
+  border-radius: 10px;
+  margin-top: 30px;
+  color: rgb(35, 40, 33);
+  padding: 20px;
+}
+
+.profimg {
+  border: 10px solid rgb(179, 179, 179);
+}
+
+.nomeprofe {
+  font-size: 1.1em;
+  margin-top: 5px;
+  font-family: "Roboto";
+  font-weight: 500;
+  color: rgb(104, 104, 104);
+}
+
+.tituloprofessor {
+  font-size: 1em;
+  font-family: "Roboto";
+  font-weight: 300;
+  color: rgb(218, 218, 218);
+}
+
+.profdesc {
+  font-size: 0.8em;
+}
+
+/* accordion */
+
+.grade {
+  font-size: 2em;
+  color: rgb(71, 71, 71);
+  font-family: "roboto";
+  font-weight: 500;
+  background: rgb(227, 227, 227);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.inclui {
+  font-size: 2em;
+  color: rgb(71, 71, 71);
+  font-family: "roboto";
+  font-weight: 500;
+  background: rgb(227, 227, 227);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* footer */
+
+.footermain {
+  background: rgb(255, 255, 255);
+  text-align: center;
+  float: left;
+  width: 100%;
+  min-height: 310px;
+  
+}
+
+.coteudofooter {
+  text-align: center;
+  float: left;
+}
+
+.imgFooter {
+  width: 100%;
+  color: rgb(57, 57, 57);
+}
+
+
+
+.agencia {
+  color: rgb(73, 73, 73);
+  
+  text-align: right;
+  width: 100%;
+  
+}
+
+.agencia span {
+  background: rgb(186, 186, 186);
+  padding: 5px;
+  border-radius: 4px;
+  
+}
+

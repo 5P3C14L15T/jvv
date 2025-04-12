@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu{
+    background: rgb(24, 24, 24);
+    border-bottom: 5px solid rgb(32, 32, 32);
+    margin-bottom: 10px;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 0.8em;
+    padding: 5px 0;
+}
+
+.main{
+    background-image: url('../img/bg-pos.jpg') ;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.main-img {
+  background: rgb(19, 19, 20);
+  background: linear-gradient(
+    180deg,
+    rgba(19, 19, 20, 0.985) 0%,
+    rgba(34, 34, 37, 0.967) 35%,
+    rgba(50, 56, 57, 1) 100%
+  );
+  min-height: 800px;
+  
+}
+
+/* barrinha lateral */
+
+.vermelho{
+    background: red;
+    left: 0;
+    min-width: 10px;
+    position: absolute;
+    margin-top: 300px;
+    height: 40px;
+    float: left;
+}
+
+.branco{
+    background: rgb(255, 255, 255);
+    left: 0;
+    min-width: 10px;
+    position: absolute;
+    margin-top: 340px;
+    height: 40px;
+    float: left;
+}
+.vermelho1{
+    background: rgb(139, 27, 27);
+    left: 0;
+    min-width: 10px;
+    position: absolute;
+    margin-top: 380px;
+    height: 40px;
+    float: left;
+}
+.azul{
+    background: rgb(10, 42, 67);
+    right: 0;
+    min-width: 10px;
+    position: absolute;
+    margin-top: 300px;
+    height: 40px;
+    float: right;
+}
+
+.branco1{
+    background: rgb(255, 255, 255);
+    right: 0;
+    min-width: 10px;
+    position: absolute;
+    margin-top: 340px;
+    height: 40px;
+    float: right;
+}
+.azul1{
+    background: rgb(63, 201, 228);
+    right: 0;
+    min-width: 10px;
+    position: absolute;
+    margin-top: 380px;
+    height: 40px;
+    float: right;
+}
+
+
+.header{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 2px;
+    position: relative;
+    float: left;
+}
+
+.titulo{
+    font-size: 4em;
+    margin-top: 20px;
+   
+}
+
+.seta{
+
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.pos-card{
+    box-sizing: content-box;
+}
+
+.pos-card img{
+   
+    border-radius: 40px;
+    box-shadow: 2px 2px 10px 1px #000;
+    transition: 0.5s;
+}
+.pos-card img:hover{
+    opacity: 1;
+    cursor: pointer;
+    transform: matrix(10px);
+    transform: translateY(-10px);
+    
+}
+
+.foot{
+    background: white;
+    border-top: 5px solid rgb(31, 29, 29);
+}
+
+.logos{
+    text-align: center;
+}
+
+.logos h2{
+    font-size: 1.3em;
+}
+
+.logos p{
+    font-size: 0.8em;
+}
+
+.agencia span{
+    background: rgb(225, 225, 225);
+    padding: 3px;
+    text-align: right;
+    font-size: 0.75em;
+    float: right;
+    border-radius: 10px;
+    margin: 5px 0;
+}
+

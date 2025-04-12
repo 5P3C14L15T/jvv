@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  body, html {
+    height: 100vh;
+    background-color: #f8f8f8;
+  }
+  
+  .login-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  /* Lado do formulário */
+  .form-side {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    padding: 40px;
+  }
+  
+  .form-box {
+    width: 100%;
+    max-width: 350px;
+  }
+  
+  .form-box h2 {
+    margin-bottom: 30px;
+    font-size: 28px;
+  }
+  
+  form label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    outline: none;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 12px;
+    background: #6c63ff;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  form button:hover {
+    background: #574fde;
+  }
+  
+  /* Lado da imagem */
+  .image-side {
+    flex: 1;
+    background: url('../images/bg.jpg') no-repeat center center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .image-side .overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 40px;
+    text-align: center;
+    border-radius: 8px;
+    max-width: 80%;
+  }
+  
+  .image-side h3 {
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  
+  .error-message {
+    background: #ffe0e0;
+    color: #a00;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  

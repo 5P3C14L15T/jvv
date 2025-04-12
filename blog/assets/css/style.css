@@ -1,0 +1,35 @@
+body {
+    background-color: #111; /* fundo escuro total */
+    color: #eee;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .card-post {
+    background-color: #1a1a1a;
+    border: none;
+    transition: transform 0.2s;
+    border-left: 4px solid orange;
+  }
+  
+  .card-post:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 0 15px rgba(255, 140, 0, 0.3);
+  }
+  
+  .card-title {
+    color: #ffa500; /* laranja mais claro */
+  }
+  
+  .card-text {
+    color: #bbb;
+  }
+  
+  .btn-laranja {
+    background-color: #ff8000;
+    color: #fff;
+  }
+  
+  .btn-laranja:hover {
+    background-color: #e67300;
+  }
+  

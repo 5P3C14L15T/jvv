@@ -1,107 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;700;900&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 * {
   margin: 0;
   padding: 0;
-  /* box-sizing: content-box; */
-   /* Oculta o overflow horizontal */
-  /* Mostra barras de rolagem vertical quando necessário */
+  box-sizing: border-box;
 }
 
 body {
-  overflow-x: hidden !important; /* Oculta o overflow horizontal */
-    overflow-y: auto !important; /* Mostra barras de rolagem vertical quando necessário */
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: 'Montserrat', sans-serif !important;
 }
 
+.btn-course {
+  background-color: #df8b35 !important;
+}
 
-/* Estilo para a caixa de fundo */
+h4, i, .fas {
+  color: #df8b35 !important;
+}
+
+/* HEADER */
+
+.logo {
+  z-index: 999 !important;
+  position: relative;
+  width: 150px;
+  margin-bottom: 100px;
+}
+
 .header {
   width: 100vw;
   height: 100vh;
-
-  /* Configurando a imagem de fundo */
-  background-image: url('../images/bg.jpg'); /* Coloque o caminho da imagem de fundo */
-  background-size: cover; /* Faz a imagem cobrir todo o espaço do elemento */
-  background-position: bottom; /* Centraliza a imagem de fundo */
-  background-repeat: no-repeat; /* Impede repetição da imagem de fundo */
-  background-attachment: fixed; /* Mantém o background fixo quando rolar a página */
-
-  /* Cor preta com opacidade sobreposta à imagem */
-  position: relative; /* Habilita a posição relativa para o elemento */
-
-  /* Display flex para centralizar o texto dentro da caixa */
-  display: grid;
+  background: url('../images/bgnew.jpg') no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
   align-items: center;
   justify-content: center;
-
-  /* Definindo o z-index do texto para garantir que fique acima da sobreposição preta */
-  z-index: 2; /* Mais alto do que o z-index da sobreposição preta */
-  
-  /* Cor branca para o texto */
-  color: white;
-
-  text-align: center;
-}
-
-.header h1 {
-  z-index: 3;
   color: white;
   text-align: center;
-  display: block !important;
-  width: 100%;
-  display: block;
-  margin-top: 200px;
-  
+  overflow: hidden;
 }
 
-.title1 {
-  font-size: 3em;
-  font-weight: 100;
-  font-family:  'Montserrat';
-  /* background: goldenrod; */
-  line-height: 3px;
-}
-.title2 {
-  font-size: 2em;
-  font-weight: 700;
-  font-family:  'Montserrat';
-  font-style: normal;
-  color: #df8b35;
-  line-height: 80px;
-  /* height: 100px; */
-  /* background: red; */
-  display: inline;
-}
-.title3 {
-  font-size: 0.5em;
-  font-weight: 300;
-  font-family:  'Montserrat';
-  font-style: normal;
-  line-height: 1px;
-  /* background-color: aqua; */
-  letter-spacing: 5px;
-}
-
-/* Elemento filho para a sobreposição preta */
 .header::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-
-  /* Cor preta com opacidade */
+  top: 0; left: 0;
+  width: 100%; height: 100%;
   background-color: rgba(0, 0, 0, 0.7);
-
-  /* Z-index para posicionar a sobreposição abaixo do conteúdo */
-  z-index: 1; /* Certifique-se de que este z-index seja menor que o z-index do conteúdo */
+  z-index: 1;
 }
 
+.header h1 {
+  position: relative;
+  z-index: 2;
+  margin-top: 10px;
+}
 
-.sobremim {
-  z-index: 4 !important;
-  color: white !important;
+.title1 {
+  font-size: 2em;
+  font-weight: 100;
+  line-height: 1;
+}
+
+.title2 {
+  font-size: 2em;
+  font-weight: 700;
+  color: #df8b35;
+  line-height: 1.5;
+}
+
+.title3 {
+  font-size: 0.6em;
+  font-weight: 300;
+  letter-spacing: 3px;
+  line-height: 2;
 }
 
 .link-sobremim {
@@ -109,80 +84,333 @@ body {
   border: 2px solid white;
   padding: 8px 15px;
   text-decoration: none;
-  font-size: 1em;
-  /* margin: 100px 0 !important; */
-  letter-spacing: 0px;
-  line-height: 140px;
+  font-size: 1em !important;
+  display: inline-block;
+  margin-top: 15px;
+  transition: 0.3s;
 }
 
 .link-sobremim:hover {
-  background: white;
-  cursor: pointer;
+  background-color: white;
+  color: black;
 }
 
-.header ul{
+.social {
   list-style: none;
-  width: 100%;
-  z-index: 5;
-  text-align: center;
-  /* background: red; */
-  margin: 0;
   padding: 0;
+  margin-top: 30px;
+  z-index: 3;
+  position: relative;
 }
-.header ul li{
-  display: inline;
-  color: white;
+
+.social li {
+  display: inline-block;
   margin: 0 10px;
-  text-align: center;
-  /* background: white; */
 }
 
-.header ul li a{
- text-decoration: none;
-}
-.header ul li a i:hover{
- cursor: pointer;
- 
+.social a {
+  color: white;
+  transition: color 0.3s ease;
 }
 
-/* about */
+.social a:hover {
+  color: #df8b35;
+}
+
+/* SOBRE MIM */
+
 .about-img {
   width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
-/* profile */
+/* PERFIL */
+
 .profile {
-  background: white;
+  background-color: white;
   padding: 50px 0;
 }
 
-@media (max-width: 767px) {
+/* CURSO */
+.cursos {
+ 
+  background: url('../images/bg-cursos.jpg') no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* color: white; */
+  text-align: center;
+  overflow: hidden;
+  padding: 50px 0 !important;
+}
 
-  .header h1{
-    font-size: 1em !important;
-  }
+.cursos::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1;
+}
 
-  .header .social i {
-    font-size: 30px;
-  }
-  .header .roles {
-    font-size: 18px !important;
-  }
-  .about-content {
-    flex-direction: column;
-  }
-  .stats .stat {
-    border-right: 0 !important;
-    margin-bottom: 40px;
-    border-bottom: var(--bs-dark) solid 1px;
-    padding-bottom: 20px;
-  }
 
-  .about {
-    width: 98%;
-    margin: 0 auto;
-  }
+.course-card {
+  z-index: 999 !important;
+  width: 100%;
+  max-width: 320px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-5px);
+}
+
+.course-image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-bottom: 1px solid #eee;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+
+/* PORTFÓLIO */
+
+.project {
+  transition: all 0.5s ease-in-out;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.project img {
+  transition: transform 0.5s;
+}
+
+.project:hover img {
+  transform: scale(1.05);
+  opacity: 0.85;
+}
+
+
+/* DEPOIMENTOS */
+
+.swiper-slide {
+  min-height: 100%;
+}
+
+.text-warning {
+  letter-spacing: 1px;
+  font-size: 1.1rem;
+}
+
+.btn-google-review:hover {
+  background-color: #f1f1f1;
+  transform: scale(1.03);
+  transition: all 0.3s ease-in-out;
 }
 
 
 
+
+
+/* PROJETO SOCIAL, SERVIÇOS E ESTATÍSTICAS */
+
+.styleshout,
+.services,
+.stats,
+.contact {
+  position: relative;
+  z-index: 1;
+}
+
+.services {
+  background: url('../images/bg2.jpg') no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+  padding: 50px 0 !important;
+}
+
+.services::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: -1;
+}
+
+.services .container {
+  position: relative;
+  z-index: 2;
+}
+
+.stats i,
+.services i {
+  color: #df8b35;
+}
+
+
+/* ESTATÍSTICAS */
+
+.stats-section {
+  background: url('../images/bg2.jpg') no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+  padding: 50px 0 !important;
+}
+
+.stats-section::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: -1;
+}
+
+
+
+/* BLOG */
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease-in-out;
+}
+
+.img-card-h{
+  height: 200px;
+}
+
+
+
+/* CONTATO */
+
+form input,
+form textarea {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+  color: white;
+}
+
+form input:focus,
+form textarea:focus {
+  background: transparent;
+  color: white;
+  box-shadow: none;
+  border-bottom: 2px solid #df8b35;
+}
+
+form button {
+  transition: 0.3s;
+}
+
+form button:hover {
+  transform: translateY(-2px);
+}
+
+/* RODAPÉ */
+
+.contact .social-icons a {
+  margin-left: 10px;
+  transition: color 0.3s;
+}
+
+.contact .social-icons a:hover {
+  color: #df8b35;
+}
+
+.logo-footer {
+  width: 120px;
+}
+
+.cortitulosmenores{
+  color: #df8b35;
+}
+
+.progress {
+  color: #df8b35;
+}
+
+.visitar-canal {
+  background-color: #df8b35 !important;
+  color: #fff !important;
+}
+.visitar-canal:hover {
+  background-color: #c6792c !important;
+  color: #fff !important;
+}
+
+.logo-youtube {
+  color: red !important;
+}
+
+/* RESPONSIVO */
+
+@media (max-width: 767px) {
+  .header h1 {
+    font-size: 1.2em;
+    margin-top: 150px;
+  }
+
+  .title1 {
+    font-size: 2em;
+  }
+
+  .title2 {
+    font-size: 1.5em;
+    line-height: 1.5;
+  }
+
+  .title3 {
+    font-size: 0.9em;
+  }
+
+  .link-sobremim {
+    font-size: 1em;
+    padding: 6px 12px;
+  }
+
+  .about-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .stats .stat {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+
+  .logo {
+    z-index: 999 !important;
+    position: relative;
+    width: 150px;
+    margin-top: -100px;
+  }
+}

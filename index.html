@@ -5,160 +5,970 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="css/font-awesome.css" />
-  <link rel="stylesheet" href="css/bootstrap.css" />
-  <link rel="stylesheet" href="css/styles.css" />
+  <meta property="og:image" content="https://joaovictorvieira.com.br/images/img.jpg" />
+  <meta property="og:image:secure_url" content="https://joaovictorvieira.com.br/images/img.jpg" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="500" />
+  <meta property="og:image:height" content="500" />
+  <meta property="og:image:alt" content="Agência João Victor Vieira - Desenvolvedor WEB" />
+  <link rel="icon" type="image/x-icon" href="https://www.joaovictorvieira.com.br/images/icon.jpg" />
+
   <title>Agência João Victor Vieira</title>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/styles.css" />
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="css/font-awesome.css" />
+  <!-- Lightbox CSS -->
+  <link rel="stylesheet" href="css/lightbox.min.css" />
+  <!-- Swiper CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <!-- AOS CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WDWGE2QHXK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-WDWGE2QHXK');
+  </script>
 </head>
 
 <body>
 
-  <header id="header" class="header clearfix clear">
-    <h1><span class="title1">Eu Sou</span><br><span class="title2">Desenvolvedor Web</span><br><span class="title3">FULL
-        STACK WEB DEVELOPER | EDUCADOR ONLINE
-        <br> <a class="link-sobremim" href="http://">Mais Sobre Mim</a></span>
-    </h1>
 
-    <ul class="social">
-      <li><a href="#">
-          <i class="fab fa-instagram fa-3x text-white"></i>
-        </a></li>
-      <li> <a href="https://www.linkedin.com/in/devjoaovictor/" target="_blank">
-          <i class="fab fa-linkedin fa-3x text-white"></i>
-        </a></li>
-      <li><a href="#">
-          <i class="fab fa-youtube fa-3x text-white"></i>
-        </a></li>
-      <li><a href="#">
-          <i class="fab fa-github fa-3x text-white"></i>
-        </a></li>
-    </ul>
+  <!-- nav -->
+  <!-- nav -->
+  <nav class="navbar navbar-dark bg-dark fixed-top shadow-sm">
+    <div class="container-fluid d-flex justify-content-between align-items-center">
 
+      <!-- Botão de menu à esquerda -->
+      <button class="navbar-toggler border-0 order-0 me-2" type="button" data-bs-toggle="offcanvas"
+        data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
+      <!-- Logo centralizada -->
+      <a class="navbar-brand mx-auto fw-bold text-uppercase d-flex align-items-center order-1" href="#header">
+        <img src="images/logo1.png" alt="Logo" width="150">
+      </a>
 
-  </header>
+      <!-- Espaço vazio para alinhar -->
+      <div class="d-lg-none order-2" style="width: 40px;"></div>
 
-  <!-- About -->
-  <section id="about" class="about bg-light py-5">
-    <div class="container">
-      <div class="text-center">
-        <h4 class="text-uppercase fw-bold text-primary">Sobre Mim</h4>
-        <hr class="w-25 mx-auto" />
-        <h2 class="mb-4">Deixe-me apresentar.</h2>
-      </div>
-      <div class="about-content d-flex gap-5 align-items-center h-100">
-        <img src="images/eu.jpg" alt="" class="about-img img-fluid rounded-circle" />
-        <p class="lead">
-          Sou desenvolvedor web full stack de Cuiabá-MT. Comecei a escreve código há cerca de 15 anos. Iniciei com
-          HTML, CSS JavaScript e PHP. Estou até hoje desenvolvendo minhas habilidades. Já trabalhei em alguns projetos
-          próprios para minhas empresas e para algumas empresas e parceiros. Também tenho um gosto por ensinar. E
-          atualmente crio e ensino.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- sobre / -->
-
-  <!-- profile -->
-
-  <!-- Profile & Skills -->
-  <section class="profile my-6">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <h3 class="text-uppercase fw-bold">Perfil</h3>
-          <p>
-            Aqui estão mais algumas informações sobre mim para ajudá-lo a me conhecer melhor.
-          </p>
-          <ul class="list-group list-group-flush">
-            <li class="list-group-item mb-3">
-              <h5 class="text-transform">
-                <i class="fas fa-user text-primary"></i> Nome:
-              </h5>
-              <p>João Victor Vieira</p>
+      <!-- Menu lateral -->
+      <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="offcanvasNavbar"
+        aria-labelledby="offcanvasNavbarLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title text-white" id="offcanvasNavbarLabel">Menu</h5>
+          <button type="button" class="btn-close btn-close-white text-reset" data-bs-dismiss="offcanvas"
+            aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="navbar-nav text-uppercase">
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#header">Inicial</a>
             </li>
-            <li class="list-group-item mb-3">
-              <h5 class="text-transform">
-                <i class="fas fa-calendar text-primary"></i> Data Nasc:
-              </h5>
-              <p>21 de maio de 1984</p>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#sobre">Profissional</a>
             </li>
-            <li class="list-group-item mb-3">
-              <h5 class="text-transform">
-                <i class="fas fa-building text-primary"></i> Posição atual:
-              </h5>
-              <p>Proprietário da Agência</p>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#cursos">Cursos e Treinamentos</a>
             </li>
-            <li class="list-group-item mb-3">
-              <h5 class="text-transform">
-                <i class="fas fa-home text-primary"></i> Website:
-              </h5>
-              <p>joaovictorvieira.com.br</p>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#portfolio">Portfólio</a>
             </li>
-            <li class="list-group-item mb-3">
-              <h5 class="text-transform">
-                <i class="fas fa-envelope text-primary"></i> Email:
-              </h5>
-              <p>agencia@joaovictorvieira.com.br</p>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#contato">Contato</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-white" href="/blog">Blog</a>
             </li>
           </ul>
         </div>
-        <div class="col-md-6">
-          <h3 class="text-uppercase fw-bold">Habilidades</h3>
-          <p>
-            Aqui está uma lista das minhas habilidades com essas porcentagens idiotas que não significam nada 😉
+      </div>
+    </div>
+  </nav>
+
+
+
+  <!-- Header -->
+  <header id="header" class="header d-flex align-items-center justify-content-center text-white text-center">
+
+
+
+
+    <div class="container">
+      <h1>
+        <span class="title1 d-block">Eu Sou</span>
+        <span class="title2 d-block" id="typing-text"></span>
+        <span class="title3 d-block">FULL STACK WEB DEVELOPER | EDUCADOR ONLINE<br>
+          <a class="link-sobremim cortitulosmenores" href="#sobre">Mais Sobre Mim</a>
+        </span>
+      </h1>
+
+      <ul class="social list-inline mt-4">
+        <li class="list-inline-item">
+          <a href="https://www.instagram.com/agenciajoaovictorvieira/" target="_blank">
+            <i class="fab fa-instagram fa-2x text-white"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://www.linkedin.com/in/devjoaovictor/" target="_blank">
+            <i class="fab fa-linkedin fa-2x text-white"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://www.youtube.com/channel/UCFvo8j7CqWjiFvJAeIrEHQw?sub_confirmation=1" target="_blank">
+            <i class="fab fa-youtube fa-2x text-white"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://github.com/5P3C14L15T" target="_blank">
+            <i class="fab fa-github fa-2x text-white"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </header>
+
+  <!-- Sobre Mim -->
+  <section id="sobre" class="about bg-light py-5">
+    <div class="container">
+      <div class="text-center mb-5">
+        <h4 class="text-uppercase fw-bold cortitulosmenores">Sobre Mim</h4>
+        <hr class="w-25 mx-auto">
+        <h2 class="mb-4">Apresentando-me!</h2>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-md-4 text-center mb-4 mb-md-0">
+          <img src="images/eu.jpg" alt="João Victor Vieira" class="about-img img-fluid rounded-circle">
+        </div>
+        <div class="col-md-8">
+          <p class="lead">
+            Sou desenvolvedor web full stack desde 2008 e um apaixonado por transformar conhecimento em ponte para o
+            crescimento.
+            Mais do que escrever códigos, minha missão é <strong>descomplicar a tecnologia</strong> e mostrar que
+            qualquer pessoa pode aprender —
+            desde que alguém saiba ensinar com clareza, paixão e propósito.
           </p>
-          <h5><i class="fas fa-check"></i> HTML 5</h5>
-          <div class="progress mb-4" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar" style="width: 90%">90%</div>
-          </div>
-
-          <h5><i class="fas fa-check"></i> CSS</h5>
-          <div class="progress mb-4" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar" style="width: 80%">80%</div>
-          </div>
-
-          <h5><i class="fas fa-check"></i> JavaScript</h5>
-          <div class="progress mb-4" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar" style="width: 70%">70%</div>
-          </div>
-
-          <h5><i class="fas fa-check"></i> Bootstrap</h5>
-          <div class="progress mb-4" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar" style="width: 100%">100%</div>
-          </div>
-
-          <h5><i class="fas fa-check"></i> PHP</h5>
-          <div class="progress mb-4" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar" style="width: 70%">70%</div>
-          </div>
-
-          <h5><i class="fas fa-check"></i> Python</h5>
-          <div class="progress mb-4" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar" style="width: 50%">50%</div>
-          </div>
-
-          <h5><i class="fas fa-check"></i> UI/UX</h5>
-          <div class="progress mb-4" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
-            <div class="progress-bar" style="width: 70%">70%</div>
+          <p class="lead">
+            Aprender algo novo me move. Ensinar o que aprendi me completa.
+          </p>
+          <p class="lead">
+            Já atuei em diversos projetos, tanto pessoais quanto profissionais, mas o que realmente me realiza é
+            compartilhar
+            experiências e formar novas mentes no mundo da programação. Porque dominar uma tecnologia é ótimo —
+            <strong>mas ver alguém crescer com a sua ajuda não tem preço</strong>.
+          </p>
+          <p class="lead text-dark mt-4">
+            <strong>Também trabalho com tráfego pago desde 2014</strong>, gerenciando campanhas no
+            <strong>Facebook/Instagram Ads</strong> e <strong>Google Ads</strong>.
+            Planejo, crio e acompanho estratégias focadas em performance e conversão para diferentes tipos de negócios.
+          </p>
+          <div class="mt-3">
+            <a href="#contato" class="btn btn-warning text-dark fw-bold px-4 py-2">Agende sua consultoria comigo</a>
           </div>
         </div>
+
+
       </div>
-      <div class="row mt-5 text-center">
-        <div class="col-12">
-          <a href="#" class="btn btn-outline-dark btn-lg text-uppercase px-5 mx-3 my-2">Contrate-me</a>
-          <a href="#" class="btn btn-dark btn-lg text-uppercase px-5 mx-3 my-2">Baixar Currículo</a>
+    </div>
+  </section>
+
+  <!-- Perfil e Habilidades -->
+  <section class="profile bg-white py-5">
+    <div class="container">
+      <div class="row">
+        <!-- Perfil -->
+        <div class="col-md-6 mb-5 mb-md-0">
+          <h3 class="text-uppercase fw-bold">Perfil</h3>
+          <p>Aqui estão mais algumas informações sobre mim para ajudá-lo a me conhecer melhor.</p>
+
+          <ul class="list-group list-group-flush mb-4">
+            <li class="list-group-item">
+              <strong><i class="fas fa-user"></i> Nome:</strong> João Victor Vieira
+            </li>
+            <li class="list-group-item">
+              <strong><i class="fas fa-calendar"></i> Data Nasc:</strong> 21 de maio de 1984
+            </li>
+            <li class="list-group-item">
+              <strong><i class="fas fa-building"></i> Posição atual:</strong> Proprietário da Agência
+            </li>
+            <li class="list-group-item">
+              <strong><i class="fas fa-home"></i> Website:</strong> joaovictorvieira.com.br
+            </li>
+            <li class="list-group-item">
+              <strong><i class="fas fa-envelope"></i> Email:</strong> agencia@joaovictorvieira.com.br
+            </li>
+          </ul>
+
+          <h5 class="text-uppercase fw-bold mb-3">Formações e Certificações</h5>
+          <ul class="list-group list-group-flush mb-4">
+            <li class="list-group-item">
+              <i class="fas fa-graduation-cap "></i> Formado em Administração
+            </li>
+            <li class="list-group-item">
+              <i class="fas fa-user-graduate "></i> Pós-graduado em TI - Banco de Dados
+            </li>
+            <li class="list-group-item">
+              <i class="fas fa-university "></i> Cursou até o 5º semestre de SI - UFMT
+            </li>
+            <li class="list-group-item">
+              <i class="fas fa-code "></i> Estudante ativo do Projeto Odin
+            </li>
+            <li class="list-group-item">
+              <i class="fab fa-free-code-camp text-success"></i> Estudante do FreeCodeCamp
+            </li>
+          </ul>
+
+          <h5 class="text-uppercase fw-bold mb-3">Soft Skills e Outras Experiências</h5>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+              <i class="fas fa-language "></i> <a href="https://cert.efset.org/pt/XCcGfk" target="_blank">Inglês B2 - Intermediário</a>
+            </li>
+            <li class="list-group-item">
+              <i class="fas fa-users-cog "></i> Liderança e Gestão de Equipes
+            </li>
+            <li class="list-group-item">
+              <i class="fas fa-briefcase "></i> Corretor de Imóveis Registrado
+            </li>
+            <li class="list-group-item">
+              <i class="fas fa-shield-alt "></i> Ex-2º Sargento de Infantaria – Turma EsSA 2005
+            </li>
+          </ul>
+        </div>
+
+
+        <!-- Habilidades -->
+        <div class="col-md-6">
+          <h3 class="text-uppercase fw-bold">Habilidades</h3>
+          <p>Aqui está uma lista das minhas habilidades com essas porcentagens idiotas que não significam nada 😉</p>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fas fa-check"></i> HTML5</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 90%;background-color:#df8b35;">90%</div>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fas fa-check"></i> CSS</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 80%;background-color:#df8b35;">80%</div>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fas fa-check"></i> JavaScript</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 70%;background-color:#df8b35;">70%</div>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fas fa-check"></i> Bootstrap</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 100%;background-color:#df8b35;">100%</div>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fas fa-check"></i> PHP</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 70%;background-color:#df8b35;">70%</div>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fas fa-check"></i> Python</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 50%;background-color:#df8b35;">50%</div>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fas fa-check"></i> UI/UX</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 70%;background-color:#df8b35;">70%</div>
+            </div>
+          </div>
+
+          <!-- NOVAS HABILIDADES DE TRÁFEGO -->
+          <div class="mb-3">
+            <label class="form-label"><i class="fab fa-facebook"></i> Facebook / Instagram Ads</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 100%;background-color:#df8b35;">100%</div>
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label class="form-label"><i class="fab fa-google"></i> Google Ads</label>
+            <div class="progress">
+              <div class="progress-bar" style="width: 80%;background-color:#df8b35;">80%</div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Botões -->
+        <div class="text-center mt-5">
+          <a href="#contato" class="btn btn-outline-dark btn-lg text-uppercase mx-2 mb-4">Contrate-me</a>
+          <a href="https://www.linkedin.com/in/devjoaovictor/" target="_blank"
+            class="btn btn-dark btn-lg text-uppercase mx-2 mb-4">Baixar Currículo</a>
+        </div>
+      </div>
+  </section>
+
+  <!-- section curso -->
+  <section id="cursos" class="cursos py-5">
+    <div class="container">
+      <!-- Título da seção -->
+      <div class="text-center mb-5 position-relative" style="z-index: 100; position: relative;">
+        <h4 class="text-uppercase fw-bold cortitulosmenores text-white">Cursos</h4>
+        <hr class="w-25 mx-auto">
+        <h2 class="text-white">O que você pode aprender comigo</h2>
+      </div>
+
+      <div class="row justify-content-center">
+        <div class="col-md-3 mb-4 d-flex justify-content-center">
+          <div class="course-card shadow rounded-4 overflow-hidden">
+            <img src="images/thumb2.jpg" alt="Capa do curso" class="img-fluid course-image">
+
+            <div class="p-3">
+              <h5 class="fw-bold mb-1">Aprenda Bootstrap Completo - 5 Projetos Finais + Bônus</h5>
+              <p class="text-success mb-1">João Victor Vieira</p>
+              <p class="text-muted small mb-2">
+                Quer Aprender a Fazer Sites Responsivos Profissionais em Apenas 1 Dia Usando o Bootstrap 4, e Começar a
+                Ganhar Dinheiro!
+              </p>
+
+              <div class="d-flex align-items-center mb-2">
+                <span class="fw-bold me-1">4.6</span>
+                <div class="text-warning me-2">
+                  ★★★★★
+                </div>
+                <span class="text-muted small">(21)</span>
+              </div>
+
+              <div class="d-flex flex-column align-items-start mt-3">
+                <small class="text-muted mt-2 text-decoration-line-through">R$ 139,90</small>
+                <a href="https://www.udemy.com/course/curso-de-bootstrap-completo-5-projetos-finais/" target="_blank"
+                  class="btn btn-course  fw-bold px-4 py-2">
+                  Acessar Curso com Desconto
+                </a>
+
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+      <!-- Adicione mais cursos aqui -->
+    </div>
+    </div>
+  </section>
+
+
+  <!-- portfólio -->
+
+
+
+  <!-- Depoimentos -->
+  <section id="depoimentos" class="py-5 bg-light">
+    <div class="container">
+      <div class="text-center mb-4">
+        <h4 class="text-uppercase fw-bold cortitulosmenores">Depoimentos</h4>
+        <hr class="w-25 mx-auto" />
+        <p class="lead">O que dizem meus clientes sobre meu trabalho?</p>
+      </div>
+
+      <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+
+          <!-- Depoimento 1 -->
+          <div class="swiper-slide p-3">
+            <div class="bg-white rounded-4 shadow p-4 h-100">
+              <div class="d-flex align-items-center mb-3">
+                <img src="images/claudineiasilvaalmeida.png" alt="Claudinéia" class="rounded-circle me-3" width="50"
+                  height="50">
+                <div>
+                  <h6 class="mb-0 fw-bold">Claudinéia Silva Almeida</h6>
+                  <small class="text-muted">25 de fev. de 2022</small>
+                </div>
+              </div>
+              <div class="text-warning mb-2">★★★★★</div>
+              <p class="mb-0">Ótimo serviços !!! O melhor em gestão de tráfego.</p>
+            </div>
+          </div>
+
+          <!-- Depoimento 2 -->
+          <div class="swiper-slide p-3">
+            <div class="bg-white rounded-4 shadow p-4 h-100">
+              <div class="d-flex align-items-center mb-3">
+                <img src="images/camilaalmeida.png" alt="Camila" class="rounded-circle me-3" width="50" height="50">
+                <div>
+                  <h6 class="mb-0 fw-bold">Camila Almeida</h6>
+                  <small class="text-muted">25 de fev. de 2022</small>
+                </div>
+              </div>
+              <div class="text-warning mb-2">★★★★★</div>
+              <p class="mb-0">Ótimo profissional.</p>
+            </div>
+          </div>
+
+          <!-- Depoimento 3 -->
+          <div class="swiper-slide p-3">
+            <div class="bg-white rounded-4 shadow p-4 h-100">
+              <div class="d-flex align-items-center mb-3">
+                <img src="images/andre.png" alt="Andre Brito" class="rounded-circle me-3" width="50" height="50">
+                <div>
+                  <h6 class="mb-0 fw-bold">Andre Brito</h6>
+                  <small class="text-muted">15 de fev. de 2022</small>
+                </div>
+              </div>
+              <div class="text-warning mb-2">★★★★★</div>
+              <p class="mb-0">Ótimo profissional o João, recomendo!</p>
+            </div>
+          </div>
+
+          <!-- Depoimento 4 -->
+          <div class="swiper-slide p-3">
+            <div class="bg-white rounded-4 shadow p-4 h-100">
+              <div class="d-flex align-items-center mb-3">
+                <img src="images/mateuspugliese.png" alt="Matheus" class="rounded-circle me-3" width="50" height="50">
+                <div>
+                  <h6 class="mb-0 fw-bold">Matheus Pugliese</h6>
+                  <small class="text-muted">15 de fev. de 2022</small>
+                </div>
+              </div>
+              <div class="text-warning mb-2">★★★★★</div>
+              <p class="mb-0">Ótimos serviços, principalmente na Gestão de tráfego!</p>
+            </div>
+          </div>
+
+          <!-- Depoimento 5 -->
+          <div class="swiper-slide p-3">
+            <div class="bg-white rounded-4 shadow p-4 h-100">
+              <div class="d-flex align-items-center mb-3">
+                <img src="images/jonatanfores.png" alt="Jonatan Froes" class="rounded-circle me-3" width="50"
+                  height="50">
+                <div>
+                  <h6 class="mb-0 fw-bold">Jonatan Froes</h6>
+                  <small class="text-muted">13 de dez. de 2021</small>
+                </div>
+              </div>
+              <div class="text-warning mb-2">★★★★★</div>
+              <p class="mb-1">Ótimo gestor de tráfego pago. Entende muito de Google e Facebook ads. Recomendo!</p>
+              <small><strong>Aspectos positivos:</strong> Profissionalismo</small>
+            </div>
+          </div>
+
+          <!-- Depoimento 6 -->
+          <div class="swiper-slide p-3">
+            <div class="bg-white rounded-4 shadow p-4 h-100">
+              <div class="d-flex align-items-center mb-3">
+                <img src="images/emanuelvieira.png" alt="Emanuel Vieira" class="rounded-circle me-3" width="50"
+                  height="50">
+                <div>
+                  <h6 class="mb-0 fw-bold">Emanuel Vieira</h6>
+                  <small class="text-muted">14 de jan. de 2021</small>
+                </div>
+              </div>
+              <div class="text-warning mb-2">★★★★★</div>
+              <p class="mb-1">Muito profissional no que faz. Resultado gratificante e retorno garantido!</p>
+              <small><strong>Aspectos positivos:</strong> Qualidade</small>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="text-center mt-4">
+      <a href="https://g.page/r/CXWDWa1uK8YIEAE/review" target="_blank"
+        class="btn btn-light border rounded-pill d-inline-flex align-items-center px-4 py-2 shadow-sm">
+        <img src="images/googlereviews.png" alt="Google" width="100" class="me-2">
+
+      </a>
+    </div>
+
+
+  </section>
+
+
+
+
+  <!-- Projeto Social -->
+  <section class="styleshout bg-dark text-white text-center py-5">
+    <div class="container">
+      <i class="fab fa-youtube logo-youtube fa-3x mb-3"></i>
+      <h1>Projeto Social</h1>
+      <hr class="w-75 mx-auto" />
+      <p class="lead mb-4">
+        Ajudo pessoas a desenvolver uma nova habilidade no meu Canal no YouTube.
+        <br> Lá ensino programação de graça para quem deseja aprender.
+      </p>
+      <a href="https://www.youtube.com/channel/UCFvo8j7CqWjiFvJAeIrEHQw?sub_confirmation=1" target="_blank"
+        class="btn btn-lg text-uppercase visitar-canal">Visitar Canal</a>
+    </div>
+  </section>
+
+  <!-- Serviços -->
+  <section class="services position-relative text-white py-5">
+    <div class="container position-relative">
+      <div class="text-center mb-5">
+        <h4 class="text-uppercase fw-bold cortitulosmenores">Serviços</h4>
+        <hr class="w-25 mx-auto">
+        <h2 class="mb-4">O que posso fazer para você?</h2>
+        <p class="lead">Aqui estão alguns dos serviços que ofereço relacionados à educação, tecnologia e marketing
+          digital.</p>
+      </div>
+
+      <div class="row text-center g-4">
+
+        <!-- Serviço 1 -->
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+          <div class="p-4 bg-dark bg-opacity-75 rounded-4 shadow h-100 d-flex flex-column justify-content-between">
+            <div>
+              <i class="fas fa-chalkboard-teacher fa-3x mb-3 text-warning"></i>
+              <h3 class="fs-5 fw-bold text-white">Cursos, Treinamentos e Mentoria</h3>
+              <hr class="w-25 mx-auto">
+              <p>Ensino desenvolvimento web e marketing digital por meio de cursos online, mentorias e treinamentos
+                práticos.</p>
+            </div>
+            <a href="#cursos" class="btn btn-outline-warning mt-3 text-uppercase fw-bold">Saiba Mais</a>
+          </div>
+        </div>
+
+        <!-- Serviço 2 -->
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="p-4 bg-dark bg-opacity-75 rounded-4 shadow h-100 d-flex flex-column justify-content-between">
+            <div>
+              <i class="fas fa-laptop-code fa-3x mb-3 text-info"></i>
+              <h3 class="fs-5 fw-bold text-white">Criação de Sites e Sistemas</h3>
+              <hr class="w-25 mx-auto">
+              <p>Desenvolvo sites, landing pages e sistemas completos com foco em design moderno, performance e
+                resultado.</p>
+            </div>
+            <a href="#contato" class="btn btn-outline-info mt-3 text-uppercase fw-bold">Solicitar Orçamento</a>
+          </div>
+        </div>
+
+        <!-- Serviço 3 -->
+        <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+          <div class="p-4 bg-dark bg-opacity-75 rounded-4 shadow h-100 d-flex flex-column justify-content-between">
+            <div>
+              <i class="fas fa-bullhorn fa-3x mb-3 text-success"></i>
+              <h3 class="fs-5 fw-bold text-white">Gestão de Tráfego e Conversão</h3>
+              <hr class="w-25 mx-auto">
+              <p>Crio, gerencio e otimizo campanhas de tráfego pago para atrair mais leads e gerar mais vendas para o
+                seu negócio.</p>
+            </div>
+            <a href="#contato" class="btn btn-outline-success mt-3 text-uppercase fw-bold">Falar Comigo</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Portfólio -->
+  <section class="portfolio bg-light py-5" id="portfolio">
+    <div class="container">
+      <div class="text-center mb-5">
+        <h4 class="text-uppercase fw-bold cortitulosmenores">Portfólio</h4>
+        <hr class="w-25 mx-auto">
+        <h2 class="mb-4">Veja meus trabalhos</h2>
+        <p class="lead">Aqui está uma pequena amostra de meus trabalhos.</p>
+      </div>
+
+      <div class="row g-4">
+        <!-- Cada projeto ocupa 6 colunas em telas médias e maiores -->
+
+
+
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br" target="_blank">
+              <img src="images/project1.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://markettingdeninja.com.br" target="_blank">
+              <img src="images/project2.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://imobiliatto.com.br" target="_blank">
+              <img src="images/project3.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://apartamentoavendacuiaba.com.br" target="_blank">
+              <img src="images/project4.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <!-- projetos internos -->
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br/job/projeto4/" target="_blank">
+              <img src="images/project5.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://extractorleads.com" target="_blank">
+              <img src="images/project6.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br/job/isp/" target="_blank">
+              <img src="images/project7.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br/job/projeto5/" target="_blank">
+              <img src="images/project8.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br/job/projeto3/" target="_blank">
+              <img src="images/project9.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br/job/projeto2/" target="_blank">
+              <img src="images/project10.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br/job/projeto1/" target="_blank">
+              <img src="images/project11.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="project shadow rounded-4 overflow-hidden">
+            <a href="https://joaovictorvieira.com.br/job/projeto6/" target="_blank">
+              <img src="images/project12.jpg" alt="" class="img-fluid">
+            </a>
+          </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- profile /-->
+
+
+  <!-- Estatísticas -->
+  <section class="stats stats-section text-white py-5">
+    <div class="container">
+      <div class="row text-center g-4">
+        <div class="col-6 col-lg-3">
+          <i class="fas fa-users fa-3x mb-2"></i>
+          <h2 class="counter" data-target="30" data-suffix="+">0</h2>
+          <p>Clientes</p>
+        </div>
+        <div class="col-6 col-lg-3">
+          <i class="fas fa-project-diagram fa-3x mb-2"></i>
+          <h2 class="counter" data-target="20" data-suffix="+">0</h2>
+          <p>Projetos</p>
+        </div>
+        <div class="col-6 col-lg-3">
+          <i class="fas fa-clock fa-3x mb-2"></i>
+          <h2 class="counter" data-target="16" data-suffix="+">0</h2>
+          <p>Anos</p>
+        </div>
+        <div class="col-6 col-lg-3">
+          <i class="fas fa-graduation-cap fa-3x mb-2"></i>
+          <h2 class="counter" data-target="300" data-suffix="+">0</h2>
+          <p>Alunos</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- blog -->
+  <section id="blog" class="py-5 bg-light">
+    <div class="container">
+      <div class="text-center mb-5 ">
+        <h4 class="text-uppercase fw-bold cortitulosmenores">Blog</h4>
+        <hr class="w-25 mx-auto">
+        <h2 class="mb-3">Últimos Artigos</h2>
+        <p class="lead text-center mx-auto" style="max-width: 720px;">
+
+          Confira dicas e conteúdos recentes sobre <strong>desenvolvimento front-end</strong>,
+          <strong>novas tecnologias</strong> e <strong>marketing digital</strong>, incluindo estratégias de
+          <strong>gestão de tráfego pago</strong> para impulsionar seus projetos.
+
+        </p>
+      </div>
+
+      <div class="row g-4">
+
+        <!-- Card 1 -->
+        <div class="col-md-6 col-lg-3">
+          <a href="/blog/como-criar-landing-pages-com-bootstrap-5" class="text-decoration-none text-dark"
+            aria-label="Leia o artigo: Como criar landing pages com Bootstrap 5">
+            <div class="card border-0 shadow rounded-4 h-100">
+              <img src="https://picsum.photos/500" class="card-img-top rounded-top-4 img-card-h" alt="Imagem do artigo">
+              <div class="card-body">
+                <span class="badge bg-warning text-dark mb-2">Bootstrap</span>
+                <p class="text-muted small mb-1">Publicado 10 Mar 2024</p>
+                <h5 class="card-title fw-bold">Como criar landing pages com Bootstrap 5</h5>
+                <p class="card-text text-muted">Aprenda passo a passo como criar uma landing page moderna, responsiva e
+                  com ótimo desempenho.</p>
+              </div>
+              <div class="card-footer bg-white border-0 d-flex align-items-center">
+                <img src="images/perfil.jpg" alt="João Victor Vieira" class="rounded-circle me-2" width="35"
+                  height="35">
+                <small class="fw-bold">João Victor Vieira</small>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-6 col-lg-3">
+          <a href="/blog/componentes-prontos-bootstrap-que-voce-precisa-usar" class="text-decoration-none text-dark"
+            aria-label="Leia o artigo: Componentes prontos do Bootstrap que você precisa usar">
+            <div class="card border-0 shadow rounded-4 h-100">
+              <img src="https://picsum.photos/500" class="card-img-top rounded-top-4 img-card-h" alt="Imagem do artigo">
+              <div class="card-body">
+                <span class="badge bg-warning text-dark mb-2">Bootstrap</span>
+                <p class="text-muted small mb-1">Publicado 02 Mar 2024</p>
+                <h5 class="card-title fw-bold">Componentes prontos do Bootstrap que você precisa usar</h5>
+                <p class="card-text text-muted">Economize tempo utilizando os componentes nativos do Bootstrap para
+                  criar interfaces poderosas.</p>
+              </div>
+              <div class="card-footer bg-white border-0 d-flex align-items-center">
+                <img src="images/perfil.jpg" alt="João Victor Vieira" class="rounded-circle me-2" width="35"
+                  height="35">
+                <small class="fw-bold">João Victor Vieira</small>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-6 col-lg-3">
+          <a href="/blog/campanhas-de-trafego-para-iniciantes" class="text-decoration-none text-dark"
+            aria-label="Leia o artigo: Como criar campanhas de tráfego para iniciantes">
+            <div class="card border-0 shadow rounded-4 h-100">
+              <img src="https://picsum.photos/500" class="card-img-top rounded-top-4 img-card-h" alt="Imagem do artigo">
+              <div class="card-body">
+                <span class="badge bg-info text-white mb-2">Tráfego Pago</span>
+                <p class="text-muted small mb-1">Publicado 28 Fev 2024</p>
+                <h5 class="card-title fw-bold">Como criar campanhas de tráfego para iniciantes</h5>
+                <p class="card-text text-muted">Veja como planejar, segmentar e rodar campanhas de tráfego pago mesmo
+                  começando do zero.</p>
+              </div>
+              <div class="card-footer bg-white border-0 d-flex align-items-center">
+                <img src="images/perfil.jpg" alt="João Victor Vieira" class="rounded-circle me-2" width="35"
+                  height="35">
+                <small class="fw-bold">João Victor Vieira</small>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="col-md-6 col-lg-3">
+          <a href="/blog/o-que-faz-um-gestor-de-trafego" class="text-decoration-none text-dark"
+            aria-label="Leia o artigo: O que faz um gestor de tráfego e por que você precisa de um">
+            <div class="card border-0 shadow rounded-4 h-100">
+              <img src="https://picsum.photos/500" class="card-img-top rounded-top-4 img-card-h" alt="Imagem do artigo">
+              <div class="card-body">
+                <span class="badge bg-info text-white mb-2">Gestão de Tráfego</span>
+                <p class="text-muted small mb-1">Publicado 22 Fev 2024</p>
+                <h5 class="card-title fw-bold">O que faz um gestor de tráfego e por que você precisa de um</h5>
+                <p class="card-text text-muted">Descubra como esse profissional pode aumentar os resultados das suas
+                  campanhas digitais.</p>
+              </div>
+              <div class="card-footer bg-white border-0 d-flex align-items-center">
+                <img src="images/perfil.jpg" alt="João Victor Vieira" class="rounded-circle me-2" width="35"
+                  height="35">
+                <small class="fw-bold">João Victor Vieira</small>
+              </div>
+            </div>
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
 
 
 
-  <script src="js/bootstrap.bundle.min.js"></script>
+  <!-- Contato -->
+  <section id="contato" class="contact bg-dark text-white py-5">
+    <div class="container">
+      <div class="text-center mb-5">
+        <h4 class="text-uppercase fw-bold cortitulosmenores">Contato</h4>
+        <hr class="w-25 mx-auto" />
+        <h2 class="mb-4">Adoraria ouvir você.</h2>
+        <p class="lead">Se você tiver alguma dúvida ou quiser trabalhar junto, entre em contato comigo através do
+          formulário abaixo.</p>
+      </div>
+
+      <form method="post" action="whatsapp.php" class="mx-auto" style="max-width: 600px;">
+        <div class="mb-3">
+          <input type="text" class="form-control bg-transparent border-bottom text-white" name="name" placeholder="Nome"
+            required>
+        </div>
+        <div class="mb-3">
+          <input type="email" class="form-control bg-transparent border-bottom text-white" name="email"
+            placeholder="Email" required>
+        </div>
+        <div class="mb-3">
+          <textarea class="form-control bg-transparent border-bottom text-white" name="message" placeholder="Mensagem"
+            rows="4" required></textarea>
+        </div>
+        <div class="d-grid">
+          <button type="submit" class="btn btn-primary btn-lg">Enviar</button>
+        </div>
+      </form>
+
+      <!-- Rodapé -->
+      <div class="d-flex flex-column flex-md-row justify-content-between align-items-center mt-5 border-top pt-4">
+        <img src="images/logo.png" alt="logo agência joaovictorvieira" class="img-fluid logo-footer">
+        <p class="mb-2 mb-md-0">Todos os Direitos Reservados &copy; 2020 | Agência JVV</p>
+        <div class="social-icons">
+          <a href="https://www.instagram.com/agenciajoaovictorvieira/" target="_blank" class="text-white me-3"><i
+              class="fab fa-instagram fa-2x"></i></a>
+          <a href="https://www.linkedin.com/in/devjoaovictor/" target="_blank" class="text-white me-3"><i
+              class="fab fa-linkedin fa-2x"></i></a>
+          <a href="https://www.youtube.com/channel/UCFvo8j7CqWjiFvJAeIrEHQw?sub_confirmation=1" target="_blank"
+            class="text-white me-3"><i class="fab fa-youtube fa-2x"></i></a>
+          <a href="https://github.com/5P3C14L15T" target="_blank" class="text-white"><i
+              class="fab fa-github fa-2x"></i></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/lightbox-plus-jquery.min.js"></script>
   <script src="js/script.js"></script>
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <!-- AOS JS -->
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+  <script>
+    const swiper = new Swiper('.mySwiper', {
+      slidesPerView: 1,
+      spaceBetween: 20,
+      loop: true,
+      grabCursor: true,
+      autoplay: {
+        delay: 3500,
+        disableOnInteraction: false,
+      },
+      breakpoints: {
+        576: {
+          slidesPerView: 2
+        },
+        768: {
+          slidesPerView: 3
+        },
+        992: {
+          slidesPerView: 4
+        }
+      }
+    });
+  </script>
+
+  <script>
+    const counters = document.querySelectorAll('.counter');
+    let statsAnimated = false;
+
+    function animateCounters() {
+      counters.forEach(counter => {
+        const target = +counter.getAttribute('data-target');
+        const suffix = counter.getAttribute('data-suffix') || '';
+        counter.innerText = '0';
+        const update = () => {
+          let current = +counter.innerText;
+          let increment = Math.ceil(target / 50);
+          if (current < target) {
+            counter.innerText = Math.min(current + increment, target);
+            setTimeout(update, 30);
+          } else {
+            counter.innerText = target + suffix;
+          }
+        };
+        update();
+      });
+    }
+
+    function isInView(element) {
+      const rect = element.getBoundingClientRect();
+      return (
+        rect.top <= window.innerHeight && rect.bottom >= 0
+      );
+    }
+
+    window.addEventListener('scroll', () => {
+      const section = document.querySelector('.stats-section');
+      if (isInView(section)) {
+        if (!statsAnimated) {
+          statsAnimated = true;
+          animateCounters();
+        }
+      } else {
+        statsAnimated = false;
+        counters.forEach(c => c.innerText = '0');
+      }
+    });
+  </script>
+
+
+
+
 </body>
 
 </html>

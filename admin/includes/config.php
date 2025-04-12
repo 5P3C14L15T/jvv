@@ -1,0 +1,3 @@
+<?php
+$baseUrl = '/agenciajvv/admin';
+?>

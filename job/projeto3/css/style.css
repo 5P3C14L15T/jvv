@@ -1,0 +1,667 @@
+/* 
+Projeto: Landing page portifóllio
+Ano: 2023
+Autor: João Victor
+*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* aqui vai todo o header */
+.header-main {
+  background: url(../images/fundo-header.jpg) !important;
+  background-position: bottom !important;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  /* position: relative; */
+  height: 800px;
+}
+
+.menuMain {
+    background: rgba(0, 0, 0, 0.425);
+}
+
+.linkHover {
+    color: white;
+}
+
+/* .bolinha {
+    height: 7px;
+    width: 7px;
+    background: white;
+    border-radius: 100px;
+    margin: 0 auto;
+    text-align: center;
+    
+} */
+
+a:hover {
+    color: bisque !important;
+}
+
+.navbar-toggler {
+    color: white !important;
+}
+
+.nav-link.active{
+    color: bisque !important;
+}
+
+/* intro */
+
+.intro {
+display: block;
+margin: 0 auto !important;
+width: 100% !important;
+/* background: rebeccapurple; */
+text-align: center;
+    
+}
+
+.intro p {
+padding-top: 220px;
+font-size: 2em;
+margin: 0;
+color: white;
+}
+
+/* texto animado */
+
+.intro2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    font-size: clamp(1rem, 2.8vw, 5rem);
+    font-family: 'Raleway';
+    font-weight: bold;
+    color: white;
+  }
+  
+  .typewriter {
+      width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 4px solid #212121;
+      animation: cursor 1s step-start infinite, 
+      text 5s steps(18) alternate infinite;
+      color: white;
+      font-size: 2em;
+  }
+  
+  @keyframes cursor {
+      0%, 100% { 
+      border-color: #ffffff; 
+    }
+  }
+  
+  @keyframes text {
+      0% { 
+      width: 0; 
+    }
+      100% { 
+      width: 11.5ch; 
+    }
+  }
+/* animado */
+
+/* redes sociais */
+  .intro ul {
+    list-style: none;
+    margin: 35px 0;
+    /* background: red; */
+    padding: 0;
+  }
+  .intro ul li {
+    display: inline;
+    margin:5px;
+    /* background: gray; */
+  }
+
+  .intro ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    /* background: green; */
+  }
+  /* redes sociais */
+
+
+  /* ver curricullo */
+
+  .curriculoBox {
+    margin: 70px auto 0 auto;
+    /* background: red; */
+    text-align: center;
+  }
+
+  .curriculo {
+    color: #ffffff;
+    padding: 10px 25px;
+    border: 1px solid #ffffff;
+    border-radius: 100px;
+    margin-top: 40px !important;
+    text-decoration: none !important;
+  }
+
+  /* ver curriculo */
+
+  /* setabox */
+
+  .setaBox {
+    margin: 180px auto 0 auto;
+    text-align: center;
+  }
+
+  .botaoMouse {
+    color: #ffffff;
+    text-decoration: none !important;
+    border: 1px solid #ffffff;
+    height: 100px !important;
+    border-radius: 10px;
+    padding: 15px 5px;
+  }
+
+  /* setabox */
+
+
+
+  /* sobre */
+  .sobre{
+    color: #212121;
+    padding: 80px 0;
+    text-align: center;
+    font-family: 'Open Sans' ;
+  }
+
+  .introSobre {
+    margin-bottom: 50px;
+    margin: 0 auto;
+    width: 80%;
+  }
+
+  .introSobre h1 {
+    font-size: 3em;
+    letter-spacing: -1px;
+    font-family: 'Rubik';
+    font-weight: 100;
+  }
+
+  .introSobre p{
+    font-size: 1em;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    text-align: justify;
+    color: #8e8e8e;
+    width: 60%;
+    margin: 20px auto 40px auto;
+  }
+  /* sobre */
+
+  /* foto */
+
+  .foto h1{
+    margin-top: 25px;
+    font-size: 3em;
+    letter-spacing: -2px;
+    font-family: 'Rubik';
+    font-weight: 100;
+    
+  }
+  .foto p{
+    margin-top: 5px;
+    font-size: 1em;
+    text-align: justify;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    color: #8e8e8e;
+    
+  }
+
+  /* foto */
+
+  /* intro me */
+
+  .introMe {
+    width: 80%;
+    margin: 0 auto;
+  }
+  /* intro me */
+
+  /* habilidades */
+
+  .skill {
+    margin-bottom: 35px;
+    position: relative;
+        overflow-x:hidden;
+        
+}
+.skill > p {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1716;
+    margin: 0;
+}
+.skill:before{
+    width: 100%;
+    height: 5px;
+    content: "";
+    display: block;
+    position: absolute;
+    background: #959595;
+    bottom: 0;
+}
+.skill-bar {
+    width: 100%;
+    height: 5px;
+    background:#f4392f;
+    display: block;
+    position: relative;
+}
+
+/* SKILL 1 */
+.skill1{
+    width: 95%;
+        
+}
+.skill-bar span{
+    position: absolute;
+    border-top: 5px solid #f4392f;
+    top: -30px;
+    padding: 0;
+    font-size: 18px;
+    padding: 3px 0;
+    font-weight: 500;
+}
+.skill-bar {
+    position: relative;
+        
+}
+
+.skill1 .skill-count1 {
+    right: 0;
+}
+
+  /* habilidades */
+
+  .progress {
+    height: 4px !important;
+  }
+
+  .progress-bar {
+    background-color: #212121 !important;
+    height: 4px;
+  }
+
+  /* habilidades */
+
+  /* conhecimento */
+
+  .conhecimento {
+    background: #f8f9fa;
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .conhecimento h1 {
+    font-size: 3em;
+    letter-spacing: -1px;
+    font-family: 'Rubik';
+    font-weight: 100;
+  }
+
+  .conhecimentoP {
+    width: 80% !important;
+    margin: 10px auto 50px auto !important;
+    display: block;
+    text-align: center;
+  }
+
+  .Cards {
+    
+    margin-top: 70px !important;
+    width: 100% !important;
+  }
+
+  .cardB {
+    background: #ffffff;
+    border: 1px solid #dfdfdf;
+    padding: 30px;
+    text-align: center !important;
+    margin-bottom: 30px;
+
+    
+  }
+
+  .cardB img {
+    text-align: center;
+    /* background: red; */
+    margin: 0 auto;
+  }
+
+  .cardB h2 {
+    font-size: 1.4em;
+    font-family: 'Rubik';
+    margin: 30px 0 10px 0;
+  }
+
+  .cardB p {
+    font-size: 0.875em;
+    color: #959595;
+    font-family: 'Open Sans';
+    font-weight: 400;
+
+  }
+
+  /* conhecimento */
+
+  /* trabalho */
+  .tempoTrabalho {
+    background: url(../images/bg-star.jpg) !important;
+  background-position: bottom !important;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  /* position: relative; */
+  min-height: 300px;
+  display: flex;
+  }
+
+  .tempoTrabalho::before{
+    background-color: rgba(0, 0, 0, 0.666);
+    content: '';
+    display: block;
+    min-height: 300px;
+    position: absolute;
+    width: 100%;
+  }
+
+  .boxTrabalho {
+ padding: 20px;
+  }
+
+  .boxTrabalho i{
+font-size: 1.4em !important;
+  }
+
+  .cardTrabalho {
+    padding: 20px;
+    width: 70%;
+    border: 1px dotted white;
+    margin: 0 auto;
+    text-align: center;
+
+  }
+  .cardTrabalho i{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+
+  .pPrimeiro {
+    font-size: 2em !important;
+    color: #ffffff;
+    font-family: 'Rubik';
+    line-height: 12px;
+  }
+
+  .pSegundo {
+    font-size: 1em !important;
+    color: #ffffff;
+    font-family: 'Open Sans';
+    line-height: 12px;
+    
+
+  }
+
+
+  /* trabalho */
+
+  /* experiência */
+
+  .experiencia{
+    color: #212121;
+    padding: 80px 0;
+    text-align: center;
+    font-family: 'Open Sans' ;
+  }
+
+  .experiP {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .timeline-area {
+    margin: 0 auto !important;
+    width: 70% !important;
+    border-left: 1px solid #d9d9d9;
+    margin-top: 50px !important;
+    padding: 30px 20px 30px 30px;
+  }
+
+  .timeline-area div {
+    background: #f8f9fa;
+    border: 1px solid #eaebeb;
+    border-radius: 10px;
+    text-align: left;
+    padding: 30px;
+    margin-bottom: 20px;
+  }
+
+  .timeline-area div h2 {
+    font-size: 1.2em;
+    font-family: 'Rubik';
+    font-weight: 400;
+    letter-spacing: -1px;
+  }
+  .timeline-area div h3 {
+    font-size: 1.4em;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    letter-spacing: 0px;
+    line-height: 14px;
+  }
+  .timeline-area div h4 {
+    font-size: 0.675em;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    letter-spacing: 0px;
+    margin-left: 10px;
+    line-height: 10px;
+  }
+
+  .timeline-area div:before {
+    content: '';
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #1a1716;
+    position: relative;
+    top: 18px;
+    left: -52px;
+  }
+
+  .verMais {
+    color: #a1a1a1;
+    padding: 10px 25px;
+    border: 1px solid #eaebeb;
+    background: #f8f9fa;
+    border-radius: 100px;
+    margin-top: 40px !important;
+    text-decoration: none !important;
+  }
+
+
+  /* experiência */
+
+  /* projetos */
+
+.projetos{
+    background: #f8f9fa;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.cardP {
+    margin: 20px;
+}
+
+  /* projetos */
+
+  /* card frase */
+
+  .cardFrase {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 2em;
+    font-family: 'Rubik';
+    font-weight: 300;
+  }
+
+  .cardFrase small {
+    font-size: 0.4em !important;
+    color: #ffffff;
+    text-align: right;
+    width: 100%;
+    float: right;
+    
+
+  }
+  
+
+  
+  /* card frase */
+
+  /* empresas */
+ 
+  .empresas {
+    background: #f8f9fa;
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .empresas h1 {
+    font-size: 3em;
+    letter-spacing: -1px;
+    font-family: 'Rubik';
+    font-weight: 100;
+  }
+
+  .empresasP {
+    width: 80% !important;
+    margin: 10px auto 50px auto !important;
+    display: block;
+    text-align: center;
+  }
+
+  .cardE {
+    margin: 20px;
+  }
+
+  /* empresas */
+
+  /* conversar */
+
+  .conversar {
+    background: #ffffff;
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .conversar h1 {
+    font-size: 3em;
+    letter-spacing: -1px;
+    font-family: 'Rubik';
+    font-weight: 100;
+  }
+
+  .conversarP {
+    width: 60% !important;
+    margin: 10px auto 50px auto !important;
+    display: block;
+    text-align: center;
+  }
+
+  .cardC {
+    font-size: 1.4em;
+    font-family: 'Rubik';
+color: #212121;
+  }
+
+  .cardC i {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  .cardC p {
+    margin: 0;
+    padding: 0;
+  }
+
+  .cardC a {
+    font-size: 0.8em !important;
+  }
+
+  /* conversar */
+
+  /* FOOTER */
+
+
+  .footer {
+    background: #343a40;
+    color: #ffffff;
+  }
+
+  .redesSociaisFooter {
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .redesSociaisFooter ul {
+    list-style: none;
+margin: 0;
+padding: 0;
+text-align: right;
+  }
+
+  .redesSociaisFooter ul li {
+    display: inline;
+    /* width: 400px !important; */
+    /* height: 400px !important; */
+    /* padding: 10px; */
+    /* border: 2px solid #8e8e8e; */
+    margin: 3px;
+    /* border-radius: 100%; */
+    text-align: center;
+
+}
+
+.redesSociaisFooter ul li a{
+    /* padding: 20px; */
+    /* width: 40px !important; */
+    color: #8e8e8e;
+    margin: 0 auto;
+}
+
+.redesSociaisFooter ul li a i{
+    font-size: 1.2em;
+    border: 2px solid #8e8e8e;
+    padding: 10px;
+    border-radius: 100%;
+    color: #ffffff;
+}
+
+  /* footer */
+
+
