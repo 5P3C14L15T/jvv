@@ -1,12 +1,20 @@
 <?php
 session_start();
-
-if (!isset($_SESSION['usuario_id'])) {
-  header('Location: login.php');
-  exit;
+if (empty($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
 }
 
-include 'config.php';
+// Caminhos absolutos baseados no diretório atual do header.php
+require_once __DIR__ . '/../models/Post.php';
+require_once __DIR__ . '/../models/Comentario.php';
+
+
+if (!isset($_SESSION['usuario_id'])) {
+    header('Location: ../login.php');
+    exit;
+}
+
+include __DIR__ . '/../includes/config.php';
 ?>
 
 
@@ -18,8 +26,8 @@ include 'config.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dashboard - Admin</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/dashboard.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/dashboard.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 
 <body>
@@ -39,6 +47,12 @@ include 'config.php';
                 <li class="nav-item mb-2">
                     <a class="nav-link text-white" href="<?php echo $baseUrl; ?>/categorias/index.php"><i class="fas fa-list me-2"></i>Categorias</a>
                 </li>
+                <li class="nav-item mb-2">
+                    <a class="nav-link text-white" href="<?php echo $baseUrl; ?>/comentarios/index.php">
+                        <i class="fas fa-comments me-2"></i>Comentários
+                    </a>
+                </li>
+
                 <li class="nav-item mb-2">
                     <a class="nav-link text-white" href="#"><i class="fas fa-chart-pie me-2"></i>Estatísticas</a>
                 </li>

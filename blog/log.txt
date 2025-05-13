@@ -1,0 +1,1352 @@
+REQUISIÇÃO RECEBIDA EM: 17:16:37
+DADOS: {"post_id":15,"tempo":45}
+REQUISIÇÃO RECEBIDA EM: 17:16:50
+DADOS: {"post_id":15,"tempo":45}
+REQUISIÇÃO RECEBIDA EM: 17:24:18
+DADOS: {"post_id":15,"tempo":13}
+REQUISIÇÃO RECEBIDA EM: 17:25:07
+DADOS: {"post_id":15,"tempo":48}
+REQUISIÇÃO RECEBIDA EM: 17:25:31
+DADOS: {"post_id":15,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:25:35
+DADOS: {"post_id":15,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:25:40
+DADOS: {"post_id":15,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 17:27:44
+DADOS: {"post_id":15,"tempo":123}
+REQUISIÇÃO RECEBIDA EM: 17:29:23
+DADOS: {"post_id":15,"tempo":98}
+REQUISIÇÃO RECEBIDA EM: 17:31:52
+DADOS: {"post_id":15,"tempo":147}
+REQUISIÇÃO RECEBIDA EM: 17:32:02
+DADOS: {"post_id":15,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 17:32:18
+DADOS: {"post_id":14,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 17:32:49
+DADOS: {"post_id":14,"tempo":29}
+REQUISIÇÃO RECEBIDA EM: 17:33:01
+DADOS: {"post_id":15,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 17:33:13
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 17:33:29
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 17:33:45
+DADOS: {"post_id":14,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 17:33:57
+DADOS: {"post_id":15,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 17:34:15
+DADOS: {"post_id":16,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 17:35:10
+DADOS: {"post_id":15,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:35:48
+DADOS: {"post_id":15,"tempo":37}
+REQUISIÇÃO RECEBIDA EM: 17:36:10
+DADOS: {"post_id":15,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 17:36:20
+DADOS: {"post_id":15,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 17:37:13
+DADOS: {"post_id":15,"tempo":50}
+REQUISIÇÃO RECEBIDA EM: 17:40:25
+DADOS: {"post_id":15,"tempo":191}
+REQUISIÇÃO RECEBIDA EM: 17:47:42
+DADOS: {"post_id":15,"tempo":435}
+REQUISIÇÃO RECEBIDA EM: 17:49:08
+DADOS: {"post_id":15,"tempo":83}
+REQUISIÇÃO RECEBIDA EM: 17:49:23
+DADOS: {"post_id":15,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 17:50:50
+DADOS: {"post_id":16,"tempo":71}
+REQUISIÇÃO RECEBIDA EM: 17:50:52
+DADOS: {"post_id":16,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 17:53:18
+DADOS: {"post_id":14,"tempo":133}
+REQUISIÇÃO RECEBIDA EM: 17:58:35
+DADOS: {"post_id":15,"tempo":248}
+REQUISIÇÃO RECEBIDA EM: 17:58:49
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 17:59:14
+DADOS: {"post_id":15,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 17:59:22
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 18:07:50
+DADOS: {"post_id":16,"tempo":505}
+REQUISIÇÃO RECEBIDA EM: 18:10:16
+DADOS: {"post_id":15,"tempo":143}
+REQUISIÇÃO RECEBIDA EM: 18:11:11
+DADOS: {"post_id":15,"tempo":54}
+REQUISIÇÃO RECEBIDA EM: 18:12:38
+DADOS: {"post_id":15,"tempo":86}
+REQUISIÇÃO RECEBIDA EM: 18:13:26
+DADOS: {"post_id":15,"tempo":47}
+REQUISIÇÃO RECEBIDA EM: 18:27:52
+DADOS: {"post_id":16,"tempo":863}
+REQUISIÇÃO RECEBIDA EM: 18:29:51
+DADOS: {"post_id":16,"tempo":116}
+REQUISIÇÃO RECEBIDA EM: 18:32:26
+DADOS: {"post_id":16,"tempo":154}
+REQUISIÇÃO RECEBIDA EM: 18:32:34
+DADOS: {"post_id":16,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 18:32:36
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 18:33:26
+DADOS: {"post_id":16,"tempo":48}
+REQUISIÇÃO RECEBIDA EM: 18:33:29
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 18:33:34
+DADOS: {"post_id":16,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 18:33:43
+DADOS: {"post_id":16,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 18:33:48
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 18:33:54
+DADOS: {"post_id":15,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 18:36:51
+DADOS: {"post_id":16,"tempo":174}
+REQUISIÇÃO RECEBIDA EM: 18:37:20
+DADOS: {"post_id":16,"tempo":28}
+REQUISIÇÃO RECEBIDA EM: 18:37:55
+DADOS: {"post_id":16,"tempo":34}
+REQUISIÇÃO RECEBIDA EM: 18:40:13
+DADOS: {"post_id":16,"tempo":137}
+REQUISIÇÃO RECEBIDA EM: 18:41:31
+DADOS: {"post_id":16,"tempo":76}
+REQUISIÇÃO RECEBIDA EM: 18:44:29
+DADOS: {"post_id":16,"tempo":177}
+REQUISIÇÃO RECEBIDA EM: 18:45:17
+DADOS: {"post_id":16,"tempo":47}
+REQUISIÇÃO RECEBIDA EM: 18:45:31
+DADOS: {"post_id":16,"tempo":13}
+REQUISIÇÃO RECEBIDA EM: 18:45:57
+DADOS: {"post_id":16,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 18:45:59
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 18:48:55
+DADOS: {"post_id":16,"tempo":172}
+REQUISIÇÃO RECEBIDA EM: 18:50:22
+DADOS: {"post_id":16,"tempo":86}
+REQUISIÇÃO RECEBIDA EM: 18:50:58
+DADOS: {"post_id":16,"tempo":35}
+REQUISIÇÃO RECEBIDA EM: 18:53:15
+DADOS: {"post_id":16,"tempo":136}
+REQUISIÇÃO RECEBIDA EM: 18:53:40
+DADOS: {"post_id":16,"tempo":24}
+REQUISIÇÃO RECEBIDA EM: 18:54:06
+DADOS: {"post_id":16,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 18:54:51
+DADOS: {"post_id":16,"tempo":44}
+REQUISIÇÃO RECEBIDA EM: 18:54:56
+DADOS: {"post_id":16,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 18:56:57
+DADOS: {"post_id":16,"tempo":120}
+REQUISIÇÃO RECEBIDA EM: 18:57:23
+DADOS: {"post_id":16,"tempo":24}
+REQUISIÇÃO RECEBIDA EM: 18:57:58
+DADOS: {"post_id":16,"tempo":35}
+REQUISIÇÃO RECEBIDA EM: 18:59:36
+DADOS: {"post_id":16,"tempo":96}
+REQUISIÇÃO RECEBIDA EM: 19:01:38
+DADOS: {"post_id":16,"tempo":121}
+REQUISIÇÃO RECEBIDA EM: 19:04:35
+DADOS: {"post_id":16,"tempo":176}
+REQUISIÇÃO RECEBIDA EM: 19:06:04
+DADOS: {"post_id":16,"tempo":87}
+REQUISIÇÃO RECEBIDA EM: 19:06:14
+DADOS: {"post_id":16,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 19:06:45
+DADOS: {"post_id":16,"tempo":31}
+REQUISIÇÃO RECEBIDA EM: 19:07:11
+DADOS: {"post_id":16,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 19:10:40
+DADOS: {"post_id":16,"tempo":208}
+REQUISIÇÃO RECEBIDA EM: 19:11:36
+DADOS: {"post_id":15,"tempo":54}
+REQUISIÇÃO RECEBIDA EM: 19:13:33
+DADOS: {"post_id":15,"tempo":116}
+REQUISIÇÃO RECEBIDA EM: 19:14:33
+DADOS: {"post_id":15,"tempo":58}
+REQUISIÇÃO RECEBIDA EM: 19:20:14
+DADOS: {"post_id":15,"tempo":340}
+REQUISIÇÃO RECEBIDA EM: 19:20:40
+DADOS: {"post_id":15,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 19:20:46
+DADOS: {"post_id":15,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 19:21:42
+DADOS: {"post_id":16,"tempo":54}
+REQUISIÇÃO RECEBIDA EM: 19:23:42
+DADOS: {"post_id":16,"tempo":119}
+REQUISIÇÃO RECEBIDA EM: 19:24:53
+DADOS: {"post_id":16,"tempo":70}
+REQUISIÇÃO RECEBIDA EM: 19:24:57
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 19:26:59
+DADOS: {"post_id":16,"tempo":121}
+REQUISIÇÃO RECEBIDA EM: 19:28:54
+DADOS: {"post_id":16,"tempo":114}
+REQUISIÇÃO RECEBIDA EM: 19:29:29
+DADOS: {"post_id":16,"tempo":34}
+REQUISIÇÃO RECEBIDA EM: 19:32:01
+DADOS: {"post_id":16,"tempo":151}
+REQUISIÇÃO RECEBIDA EM: 19:32:04
+DADOS: {"post_id":16,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 19:32:24
+DADOS: {"post_id":16,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 19:32:36
+DADOS: {"post_id":16,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 19:32:54
+DADOS: {"post_id":16,"tempo":17}
+REQUISIÇÃO RECEBIDA EM: 19:33:08
+DADOS: {"post_id":16,"tempo":13}
+REQUISIÇÃO RECEBIDA EM: 19:33:10
+DADOS: {"post_id":16,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 19:33:27
+DADOS: {"post_id":16,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 19:33:31
+DADOS: {"post_id":16,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 19:33:44
+DADOS: {"post_id":16,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 19:34:10
+DADOS: {"post_id":16,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 19:34:23
+DADOS: {"post_id":16,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 19:34:32
+DADOS: {"post_id":16,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 19:39:38
+DADOS: {"post_id":16,"tempo":305}
+REQUISIÇÃO RECEBIDA EM: 19:39:40
+DADOS: {"post_id":16,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 23:11:36
+DADOS: {"post_id":15,"tempo":12714}
+REQUISIÇÃO RECEBIDA EM: 23:12:00
+DADOS: {"post_id":15,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 23:13:30
+DADOS: {"post_id":15,"tempo":89}
+REQUISIÇÃO RECEBIDA EM: 23:14:57
+DADOS: {"post_id":15,"tempo":86}
+REQUISIÇÃO RECEBIDA EM: 23:17:19
+DADOS: {"post_id":15,"tempo":141}
+REQUISIÇÃO RECEBIDA EM: 23:17:22
+DADOS: {"post_id":15,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 23:18:51
+DADOS: {"post_id":15,"tempo":88}
+REQUISIÇÃO RECEBIDA EM: 23:18:57
+DADOS: {"post_id":15,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 23:19:29
+DADOS: {"post_id":15,"tempo":31}
+REQUISIÇÃO RECEBIDA EM: 23:19:41
+DADOS: {"post_id":15,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 23:20:38
+DADOS: {"post_id":15,"tempo":56}
+REQUISIÇÃO RECEBIDA EM: 23:20:54
+DADOS: {"post_id":15,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 23:21:20
+DADOS: {"post_id":15,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 23:21:58
+DADOS: {"post_id":15,"tempo":37}
+REQUISIÇÃO RECEBIDA EM: 23:22:49
+DADOS: {"post_id":15,"tempo":50}
+REQUISIÇÃO RECEBIDA EM: 23:25:51
+DADOS: {"post_id":14,"tempo":176}
+REQUISIÇÃO RECEBIDA EM: 23:26:02
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 23:26:04
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 23:26:09
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 23:26:19
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 23:26:23
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 23:26:26
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 23:26:34
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 23:27:11
+DADOS: {"post_id":14,"tempo":35}
+REQUISIÇÃO RECEBIDA EM: 23:27:20
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 23:27:30
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 23:28:16
+DADOS: {"post_id":14,"tempo":45}
+REQUISIÇÃO RECEBIDA EM: 23:28:27
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 23:30:25
+DADOS: {"post_id":14,"tempo":117}
+REQUISIÇÃO RECEBIDA EM: 23:30:53
+DADOS: {"post_id":14,"tempo":27}
+REQUISIÇÃO RECEBIDA EM: 23:30:56
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 23:31:27
+DADOS: {"post_id":14,"tempo":30}
+REQUISIÇÃO RECEBIDA EM: 23:31:30
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 23:31:50
+DADOS: {"post_id":14,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 23:31:59
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 23:32:19
+DADOS: {"post_id":14,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 23:32:49
+DADOS: {"post_id":14,"tempo":29}
+REQUISIÇÃO RECEBIDA EM: 23:32:58
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 23:33:17
+DADOS: {"post_id":14,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 23:33:34
+DADOS: {"post_id":14,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 23:33:54
+DADOS: {"post_id":14,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 23:34:14
+DADOS: {"post_id":14,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 23:36:19
+DADOS: {"post_id":14,"tempo":124}
+REQUISIÇÃO RECEBIDA EM: 23:36:29
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 23:36:39
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 23:37:08
+DADOS: {"post_id":14,"tempo":27}
+REQUISIÇÃO RECEBIDA EM: 23:37:54
+DADOS: {"post_id":14,"tempo":45}
+REQUISIÇÃO RECEBIDA EM: 23:38:09
+DADOS: {"post_id":14,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 23:38:13
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 23:39:04
+DADOS: {"post_id":14,"tempo":50}
+REQUISIÇÃO RECEBIDA EM: 23:39:38
+DADOS: {"post_id":14,"tempo":33}
+REQUISIÇÃO RECEBIDA EM: 23:39:51
+DADOS: {"post_id":14,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 23:40:14
+DADOS: {"post_id":15,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 01:55:44
+DADOS: {"post_id":14,"tempo":8128}
+REQUISIÇÃO RECEBIDA EM: 01:56:42
+DADOS: {"post_id":14,"tempo":57}
+REQUISIÇÃO RECEBIDA EM: 01:57:01
+DADOS: {"post_id":14,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 02:02:15
+DADOS: {"post_id":14,"tempo":313}
+REQUISIÇÃO RECEBIDA EM: 02:05:44
+DADOS: {"post_id":14,"tempo":207}
+REQUISIÇÃO RECEBIDA EM: 02:07:15
+DADOS: {"post_id":14,"tempo":90}
+REQUISIÇÃO RECEBIDA EM: 02:08:01
+DADOS: {"post_id":14,"tempo":44}
+REQUISIÇÃO RECEBIDA EM: 02:08:25
+DADOS: {"post_id":14,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 02:11:01
+DADOS: {"post_id":14,"tempo":156}
+REQUISIÇÃO RECEBIDA EM: 02:17:12
+DADOS: {"post_id":14,"tempo":370}
+REQUISIÇÃO RECEBIDA EM: 02:18:15
+DADOS: {"post_id":14,"tempo":61}
+REQUISIÇÃO RECEBIDA EM: 02:18:41
+DADOS: {"post_id":14,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 02:21:46
+DADOS: {"post_id":14,"tempo":184}
+REQUISIÇÃO RECEBIDA EM: 02:23:01
+DADOS: {"post_id":14,"tempo":74}
+REQUISIÇÃO RECEBIDA EM: 02:25:02
+DADOS: {"post_id":14,"tempo":120}
+REQUISIÇÃO RECEBIDA EM: 02:25:29
+DADOS: {"post_id":14,"tempo":26}
+REQUISIÇÃO RECEBIDA EM: 04:21:21
+DADOS: {"post_id":14,"tempo":6951}
+REQUISIÇÃO RECEBIDA EM: 04:21:49
+DADOS: {"post_id":14,"tempo":26}
+REQUISIÇÃO RECEBIDA EM: 04:21:51
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:24:21
+DADOS: {"post_id":14,"tempo":149}
+REQUISIÇÃO RECEBIDA EM: 04:27:08
+DADOS: {"post_id":14,"tempo":166}
+REQUISIÇÃO RECEBIDA EM: 04:29:35
+DADOS: {"post_id":14,"tempo":146}
+REQUISIÇÃO RECEBIDA EM: 04:32:00
+DADOS: {"post_id":14,"tempo":144}
+REQUISIÇÃO RECEBIDA EM: 04:35:47
+DADOS: {"post_id":14,"tempo":226}
+REQUISIÇÃO RECEBIDA EM: 04:46:12
+DADOS: {"post_id":14,"tempo":85}
+REQUISIÇÃO RECEBIDA EM: 04:53:36
+DADOS: {"post_id":14,"tempo":443}
+REQUISIÇÃO RECEBIDA EM: 04:56:54
+DADOS: {"post_id":14,"tempo":197}
+REQUISIÇÃO RECEBIDA EM: 04:59:20
+DADOS: {"post_id":14,"tempo":145}
+REQUISIÇÃO RECEBIDA EM: 05:01:56
+DADOS: {"post_id":14,"tempo":155}
+REQUISIÇÃO RECEBIDA EM: 05:04:37
+DADOS: {"post_id":14,"tempo":160}
+REQUISIÇÃO RECEBIDA EM: 05:11:10
+DADOS: {"post_id":14,"tempo":392}
+REQUISIÇÃO RECEBIDA EM: 05:11:51
+DADOS: {"post_id":14,"tempo":40}
+REQUISIÇÃO RECEBIDA EM: 05:20:44
+DADOS: {"post_id":14,"tempo":532}
+REQUISIÇÃO RECEBIDA EM: 05:55:11
+DADOS: {"post_id":15,"tempo":2064}
+REQUISIÇÃO RECEBIDA EM: 06:06:42
+DADOS: {"post_id":15,"tempo":87089}
+REQUISIÇÃO RECEBIDA EM: 06:13:25
+DADOS: {"post_id":15,"tempo":402}
+REQUISIÇÃO RECEBIDA EM: 06:14:14
+DADOS: {"post_id":15,"tempo":48}
+REQUISIÇÃO RECEBIDA EM: 06:15:15
+DADOS: {"post_id":15,"tempo":60}
+REQUISIÇÃO RECEBIDA EM: 06:15:24
+DADOS: {"post_id":15,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 06:20:13
+DADOS: {"post_id":15,"tempo":288}
+REQUISIÇÃO RECEBIDA EM: 06:20:31
+DADOS: {"post_id":15,"tempo":17}
+REQUISIÇÃO RECEBIDA EM: 06:23:11
+DADOS: {"post_id":15,"tempo":159}
+REQUISIÇÃO RECEBIDA EM: 06:24:26
+DADOS: {"post_id":15,"tempo":74}
+REQUISIÇÃO RECEBIDA EM: 06:43:12
+DADOS: {"post_id":15,"tempo":1126}
+REQUISIÇÃO RECEBIDA EM: 06:56:41
+DADOS: {"post_id":15,"tempo":808}
+REQUISIÇÃO RECEBIDA EM: 06:59:55
+DADOS: {"post_id":15,"tempo":193}
+REQUISIÇÃO RECEBIDA EM: 07:20:21
+DADOS: {"post_id":15,"tempo":1225}
+REQUISIÇÃO RECEBIDA EM: 07:22:24
+DADOS: {"post_id":15,"tempo":123}
+REQUISIÇÃO RECEBIDA EM: 07:32:01
+DADOS: {"post_id":15,"tempo":575}
+REQUISIÇÃO RECEBIDA EM: 07:33:50
+DADOS: {"post_id":15,"tempo":96}
+REQUISIÇÃO RECEBIDA EM: 01:26:58
+DADOS: {"post_id":15,"tempo":64352}
+REQUISIÇÃO RECEBIDA EM: 01:38:01
+DADOS: {"post_id":15,"tempo":661}
+REQUISIÇÃO RECEBIDA EM: 01:39:10
+DADOS: {"post_id":15,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 01:39:26
+DADOS: {"post_id":15,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 03:21:11
+DADOS: {"post_id":15,"tempo":6104}
+REQUISIÇÃO RECEBIDA EM: 03:21:50
+DADOS: {"post_id":15,"tempo":38}
+REQUISIÇÃO RECEBIDA EM: 03:22:32
+DADOS: {"post_id":15,"tempo":41}
+REQUISIÇÃO RECEBIDA EM: 03:22:47
+DADOS: {"post_id":15,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 03:23:37
+DADOS: {"post_id":15,"tempo":49}
+REQUISIÇÃO RECEBIDA EM: 03:25:40
+DADOS: {"post_id":15,"tempo":122}
+REQUISIÇÃO RECEBIDA EM: 03:26:16
+DADOS: {"post_id":15,"tempo":35}
+REQUISIÇÃO RECEBIDA EM: 03:30:29
+DADOS: {"post_id":15,"tempo":252}
+REQUISIÇÃO RECEBIDA EM: 03:31:00
+DADOS: {"post_id":15,"tempo":30}
+REQUISIÇÃO RECEBIDA EM: 03:31:12
+DADOS: {"post_id":15,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 03:31:39
+DADOS: {"post_id":15,"tempo":26}
+REQUISIÇÃO RECEBIDA EM: 03:32:03
+DADOS: {"post_id":15,"tempo":23}
+REQUISIÇÃO RECEBIDA EM: 03:33:28
+DADOS: {"post_id":15,"tempo":84}
+REQUISIÇÃO RECEBIDA EM: 03:34:55
+DADOS: {"post_id":15,"tempo":85}
+REQUISIÇÃO RECEBIDA EM: 03:35:32
+DADOS: {"post_id":15,"tempo":37}
+REQUISIÇÃO RECEBIDA EM: 03:35:54
+DADOS: {"post_id":15,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 03:36:02
+DADOS: {"post_id":15,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 03:41:26
+DADOS: {"post_id":15,"tempo":323}
+REQUISIÇÃO RECEBIDA EM: 03:41:43
+DADOS: {"post_id":15,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 03:42:42
+DADOS: {"post_id":15,"tempo":58}
+REQUISIÇÃO RECEBIDA EM: 03:44:48
+DADOS: {"post_id":15,"tempo":125}
+REQUISIÇÃO RECEBIDA EM: 03:44:51
+DADOS: {"post_id":15,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:44:54
+DADOS: {"post_id":15,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 03:44:57
+DADOS: {"post_id":15,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:44:59
+DADOS: {"post_id":15,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:45:02
+DADOS: {"post_id":15,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 03:45:10
+DADOS: {"post_id":15,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 03:45:18
+DADOS: {"post_id":15,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 03:50:04
+DADOS: {"post_id":15,"tempo":284}
+REQUISIÇÃO RECEBIDA EM: 03:51:27
+DADOS: {"post_id":15,"tempo":82}
+REQUISIÇÃO RECEBIDA EM: 03:55:52
+DADOS: {"post_id":15,"tempo":263}
+REQUISIÇÃO RECEBIDA EM: 03:57:08
+DADOS: {"post_id":15,"tempo":75}
+REQUISIÇÃO RECEBIDA EM: 03:57:15
+DADOS: {"post_id":15,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 03:57:41
+DADOS: {"post_id":15,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 03:58:29
+DADOS: {"post_id":15,"tempo":47}
+REQUISIÇÃO RECEBIDA EM: 03:58:52
+DADOS: {"post_id":15,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 03:59:21
+DADOS: {"post_id":15,"tempo":27}
+REQUISIÇÃO RECEBIDA EM: 04:00:01
+DADOS: {"post_id":15,"tempo":39}
+REQUISIÇÃO RECEBIDA EM: 04:04:17
+DADOS: {"post_id":15,"tempo":254}
+REQUISIÇÃO RECEBIDA EM: 04:04:53
+DADOS: {"post_id":15,"tempo":35}
+REQUISIÇÃO RECEBIDA EM: 04:05:52
+DADOS: {"post_id":15,"tempo":58}
+REQUISIÇÃO RECEBIDA EM: 04:06:05
+DADOS: {"post_id":15,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 04:06:22
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:06:27
+DADOS: {"post_id":16,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 04:06:36
+DADOS: {"post_id":14,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 04:06:40
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:08:50
+DADOS: {"post_id":15,"tempo":127}
+REQUISIÇÃO RECEBIDA EM: 04:09:37
+DADOS: {"post_id":15,"tempo":45}
+REQUISIÇÃO RECEBIDA EM: 04:11:42
+DADOS: {"post_id":15,"tempo":124}
+REQUISIÇÃO RECEBIDA EM: 04:12:23
+DADOS: {"post_id":15,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 04:18:33
+DADOS: {"post_id":15,"tempo":369}
+REQUISIÇÃO RECEBIDA EM: 04:18:57
+DADOS: {"post_id":15,"tempo":23}
+REQUISIÇÃO RECEBIDA EM: 04:19:59
+DADOS: {"post_id":15,"tempo":61}
+REQUISIÇÃO RECEBIDA EM: 04:20:24
+DADOS: {"post_id":15,"tempo":24}
+REQUISIÇÃO RECEBIDA EM: 04:22:18
+DADOS: {"post_id":15,"tempo":113}
+REQUISIÇÃO RECEBIDA EM: 04:23:13
+DADOS: {"post_id":15,"tempo":54}
+REQUISIÇÃO RECEBIDA EM: 04:28:02
+DADOS: {"post_id":15,"tempo":287}
+REQUISIÇÃO RECEBIDA EM: 04:28:11
+DADOS: {"post_id":15,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 04:32:25
+DADOS: {"post_id":15,"tempo":253}
+REQUISIÇÃO RECEBIDA EM: 04:34:26
+DADOS: {"post_id":15,"tempo":120}
+REQUISIÇÃO RECEBIDA EM: 04:34:50
+DADOS: {"post_id":15,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 04:35:44
+DADOS: {"post_id":14,"tempo":51}
+REQUISIÇÃO RECEBIDA EM: 04:36:37
+DADOS: {"post_id":14,"tempo":51}
+REQUISIÇÃO RECEBIDA EM: 04:37:01
+DADOS: {"post_id":14,"tempo":23}
+REQUISIÇÃO RECEBIDA EM: 04:38:02
+DADOS: {"post_id":15,"tempo":58}
+REQUISIÇÃO RECEBIDA EM: 04:38:14
+DADOS: {"post_id":15,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 04:38:23
+DADOS: {"post_id":16,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 04:38:28
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:39:56
+DADOS: {"post_id":14,"tempo":85}
+REQUISIÇÃO RECEBIDA EM: 02:13:14
+DADOS: {"post_id":15,"tempo":77591}
+REQUISIÇÃO RECEBIDA EM: 05:00:27
+DADOS: {"post_id":15,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 05:01:24
+DADOS: {"post_id":15,"tempo":56}
+REQUISIÇÃO RECEBIDA EM: 05:01:59
+DADOS: {"post_id":15,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 05:20:15
+DADOS: {"post_id":15,"tempo":24}
+REQUISIÇÃO RECEBIDA EM: 06:43:41
+DADOS: {"post_id":15,"tempo":168}
+REQUISIÇÃO RECEBIDA EM: 06:47:10
+DADOS: {"post_id":15,"tempo":207}
+REQUISIÇÃO RECEBIDA EM: 06:47:25
+DADOS: {"post_id":15,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 06:47:58
+DADOS: {"post_id":15,"tempo":32}
+REQUISIÇÃO RECEBIDA EM: 06:48:31
+DADOS: {"post_id":15,"tempo":32}
+REQUISIÇÃO RECEBIDA EM: 06:48:46
+DADOS: {"post_id":15,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 06:49:58
+DADOS: {"post_id":15,"tempo":41}
+REQUISIÇÃO RECEBIDA EM: 06:50:35
+DADOS: {"post_id":15,"tempo":36}
+REQUISIÇÃO RECEBIDA EM: 06:50:58
+DADOS: {"post_id":15,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 06:51:13
+DADOS: {"post_id":15,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 06:53:53
+DADOS: {"post_id":15,"tempo":147}
+REQUISIÇÃO RECEBIDA EM: 06:55:09
+DADOS: {"post_id":15,"tempo":39}
+REQUISIÇÃO RECEBIDA EM: 06:55:35
+DADOS: {"post_id":15,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 06:55:39
+DADOS: {"post_id":15,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 07:02:56
+DADOS: {"post_id":15,"tempo":190}
+REQUISIÇÃO RECEBIDA EM: 07:03:02
+DADOS: {"post_id":15,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 07:03:05
+DADOS: {"post_id":16,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 07:07:47
+DADOS: {"post_id":15,"tempo":273}
+REQUISIÇÃO RECEBIDA EM: 07:09:46
+DADOS: {"post_id":15,"tempo":118}
+REQUISIÇÃO RECEBIDA EM: 07:15:53
+DADOS: {"post_id":15,"tempo":365}
+REQUISIÇÃO RECEBIDA EM: 07:16:00
+DADOS: {"post_id":15,"tempo":373}
+REQUISIÇÃO RECEBIDA EM: 07:16:01
+DADOS: {"post_id":15,"tempo":374}
+REQUISIÇÃO RECEBIDA EM: 07:16:07
+DADOS: {"post_id":15,"tempo":380}
+REQUISIÇÃO RECEBIDA EM: 07:16:09
+DADOS: {"post_id":15,"tempo":382}
+REQUISIÇÃO RECEBIDA EM: 07:17:55
+DADOS: {"post_id":15,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 07:20:25
+DADOS: {"post_id":15,"tempo":138}
+REQUISIÇÃO RECEBIDA EM: 07:20:42
+DADOS: {"post_id":15,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 23:14:45
+DADOS: {"post_id":16,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 23:21:32
+DADOS: {"post_id":16,"tempo":135}
+REQUISIÇÃO RECEBIDA EM: 23:21:49
+DADOS: {"post_id":16,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 23:22:22
+DADOS: {"post_id":15,"tempo":32}
+REQUISIÇÃO RECEBIDA EM: 23:22:47
+DADOS: {"post_id":14,"tempo":24}
+REQUISIÇÃO RECEBIDA EM: 23:26:54
+DADOS: {"post_id":14,"tempo":63}
+REQUISIÇÃO RECEBIDA EM: 23:28:03
+DADOS: {"post_id":14,"tempo":69}
+REQUISIÇÃO RECEBIDA EM: 23:29:53
+DADOS: {"post_id":14,"tempo":110}
+REQUISIÇÃO RECEBIDA EM: 02:24:04
+DADOS: {"post_id":14,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 02:25:06
+DADOS: {"post_id":14,"tempo":10512}
+REQUISIÇÃO RECEBIDA EM: 02:26:33
+DADOS: {"post_id":14,"tempo":86}
+REQUISIÇÃO RECEBIDA EM: 02:27:21
+DADOS: {"post_id":14,"tempo":48}
+REQUISIÇÃO RECEBIDA EM: 02:27:34
+DADOS: {"post_id":14,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 02:28:59
+DADOS: {"post_id":14,"tempo":84}
+REQUISIÇÃO RECEBIDA EM: 02:29:21
+DADOS: {"post_id":14,"tempo":21}
+REQUISIÇÃO RECEBIDA EM: 02:30:30
+DADOS: {"post_id":14,"tempo":68}
+REQUISIÇÃO RECEBIDA EM: 02:30:46
+DADOS: {"post_id":14,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 02:32:17
+DADOS: {"post_id":14,"tempo":91}
+REQUISIÇÃO RECEBIDA EM: 02:33:07
+DADOS: {"post_id":14,"tempo":49}
+REQUISIÇÃO RECEBIDA EM: 02:33:10
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 02:33:24
+DADOS: {"post_id":14,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 02:33:46
+DADOS: {"post_id":14,"tempo":21}
+REQUISIÇÃO RECEBIDA EM: 02:34:16
+DADOS: {"post_id":14,"tempo":29}
+REQUISIÇÃO RECEBIDA EM: 02:34:18
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 02:35:36
+DADOS: {"post_id":14,"tempo":77}
+REQUISIÇÃO RECEBIDA EM: 02:37:15
+DADOS: {"post_id":14,"tempo":97}
+REQUISIÇÃO RECEBIDA EM: 02:37:27
+DADOS: {"post_id":14,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 02:37:37
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 02:38:17
+DADOS: {"post_id":14,"tempo":40}
+REQUISIÇÃO RECEBIDA EM: 02:38:34
+DADOS: {"post_id":14,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 02:38:43
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 02:38:51
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 02:40:12
+DADOS: {"post_id":14,"tempo":80}
+REQUISIÇÃO RECEBIDA EM: 02:40:50
+DADOS: {"post_id":14,"tempo":38}
+REQUISIÇÃO RECEBIDA EM: 02:41:11
+DADOS: {"post_id":14,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 02:41:44
+DADOS: {"post_id":14,"tempo":32}
+REQUISIÇÃO RECEBIDA EM: 02:42:03
+DADOS: {"post_id":14,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 02:43:51
+DADOS: {"post_id":14,"tempo":107}
+REQUISIÇÃO RECEBIDA EM: 02:44:12
+DADOS: {"post_id":14,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 02:44:14
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 02:46:08
+DADOS: {"post_id":14,"tempo":113}
+REQUISIÇÃO RECEBIDA EM: 02:47:20
+DADOS: {"post_id":14,"tempo":71}
+REQUISIÇÃO RECEBIDA EM: 02:47:23
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 02:47:52
+DADOS: {"post_id":14,"tempo":28}
+REQUISIÇÃO RECEBIDA EM: 02:47:59
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 02:48:45
+DADOS: {"post_id":14,"tempo":46}
+REQUISIÇÃO RECEBIDA EM: 02:49:42
+DADOS: {"post_id":14,"tempo":56}
+REQUISIÇÃO RECEBIDA EM: 02:50:08
+DADOS: {"post_id":14,"tempo":26}
+REQUISIÇÃO RECEBIDA EM: 02:50:43
+DADOS: {"post_id":14,"tempo":34}
+REQUISIÇÃO RECEBIDA EM: 02:51:43
+DADOS: {"post_id":14,"tempo":59}
+REQUISIÇÃO RECEBIDA EM: 02:51:48
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 02:51:58
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 02:52:00
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 02:52:15
+DADOS: {"post_id":14,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 02:52:25
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 03:23:07
+DADOS: {"post_id":14,"tempo":1841}
+REQUISIÇÃO RECEBIDA EM: 03:23:33
+DADOS: {"post_id":14,"tempo":25}
+REQUISIÇÃO RECEBIDA EM: 03:26:58
+DADOS: {"post_id":14,"tempo":204}
+REQUISIÇÃO RECEBIDA EM: 03:27:38
+DADOS: {"post_id":14,"tempo":39}
+REQUISIÇÃO RECEBIDA EM: 03:28:30
+DADOS: {"post_id":14,"tempo":52}
+REQUISIÇÃO RECEBIDA EM: 03:29:11
+DADOS: {"post_id":14,"tempo":40}
+REQUISIÇÃO RECEBIDA EM: 03:30:23
+DADOS: {"post_id":14,"tempo":72}
+REQUISIÇÃO RECEBIDA EM: 03:30:32
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 03:32:33
+DADOS: {"post_id":14,"tempo":120}
+REQUISIÇÃO RECEBIDA EM: 03:32:35
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 03:35:50
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 03:35:53
+DADOS: {"post_id":20,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 03:35:54
+DADOS: {"post_id":19,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:35:56
+DADOS: {"post_id":18,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:36:23
+DADOS: {"post_id":17,"tempo":26}
+REQUISIÇÃO RECEBIDA EM: 03:36:25
+DADOS: {"post_id":17,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:36:50
+DADOS: {"post_id":17,"tempo":24}
+REQUISIÇÃO RECEBIDA EM: 03:36:56
+DADOS: {"post_id":18,"tempo":61}
+REQUISIÇÃO RECEBIDA EM: 03:36:56
+DADOS: {"post_id":19,"tempo":62}
+REQUISIÇÃO RECEBIDA EM: 03:37:00
+DADOS: {"post_id":20,"tempo":69}
+REQUISIÇÃO RECEBIDA EM: 03:37:12
+DADOS: {"post_id":17,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 03:37:21
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 03:37:25
+DADOS: {"post_id":16,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 03:38:27
+DADOS: {"post_id":17,"tempo":62}
+REQUISIÇÃO RECEBIDA EM: 03:39:46
+DADOS: {"post_id":20,"tempo":77}
+REQUISIÇÃO RECEBIDA EM: 03:40:02
+DADOS: {"post_id":20,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 03:40:08
+DADOS: {"post_id":17,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 03:40:13
+DADOS: {"post_id":19,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 03:41:58
+DADOS: {"post_id":19,"tempo":104}
+REQUISIÇÃO RECEBIDA EM: 03:43:40
+DADOS: {"post_id":19,"tempo":101}
+REQUISIÇÃO RECEBIDA EM: 03:43:54
+DADOS: {"post_id":17,"tempo":13}
+REQUISIÇÃO RECEBIDA EM: 03:43:56
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 03:43:58
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 03:45:14
+DADOS: {"post_id":17,"tempo":74}
+REQUISIÇÃO RECEBIDA EM: 03:45:53
+DADOS: {"post_id":17,"tempo":38}
+REQUISIÇÃO RECEBIDA EM: 03:46:15
+DADOS: {"post_id":17,"tempo":21}
+REQUISIÇÃO RECEBIDA EM: 03:55:16
+DADOS: {"post_id":17,"tempo":539}
+REQUISIÇÃO RECEBIDA EM: 03:55:18
+DADOS: {"post_id":17,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:55:20
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:56:47
+DADOS: {"post_id":18,"tempo":86}
+REQUISIÇÃO RECEBIDA EM: 03:56:48
+DADOS: {"post_id":18,"tempo":0}
+REQUISIÇÃO RECEBIDA EM: 03:56:50
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:56:51
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 03:57:00
+DADOS: {"post_id":18,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 03:57:13
+DADOS: {"post_id":14,"tempo":13}
+REQUISIÇÃO RECEBIDA EM: 03:57:42
+DADOS: {"post_id":14,"tempo":29}
+REQUISIÇÃO RECEBIDA EM: 03:57:46
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 03:58:57
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:00:35
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:00:42
+DADOS: {"post_id":17,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 04:01:36
+DADOS: {"post_id":20,"tempo":53}
+REQUISIÇÃO RECEBIDA EM: 04:01:37
+DADOS: {"post_id":20,"tempo":0}
+REQUISIÇÃO RECEBIDA EM: 04:01:38
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:01:41
+DADOS: {"post_id":17,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:01:45
+DADOS: {"post_id":20,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 04:02:05
+DADOS: {"post_id":16,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 04:02:06
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:02:11
+DADOS: {"post_id":16,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 04:02:13
+DADOS: {"post_id":15,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:02:20
+DADOS: {"post_id":14,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 04:02:22
+DADOS: {"post_id":17,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:02:26
+DADOS: {"post_id":19,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 04:03:17
+DADOS: {"post_id":14,"tempo":50}
+REQUISIÇÃO RECEBIDA EM: 04:03:22
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:04:03
+DADOS: {"post_id":19,"tempo":39}
+REQUISIÇÃO RECEBIDA EM: 04:04:05
+DADOS: {"post_id":19,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:04:06
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:04:17
+DADOS: {"post_id":17,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 04:06:18
+DADOS: {"post_id":14,"tempo":107}
+REQUISIÇÃO RECEBIDA EM: 04:06:26
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 04:14:40
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 04:15:00
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 04:15:20
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:15:34
+DADOS: {"post_id":14,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 04:16:39
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:16:48
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:18:59
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 04:22:33
+DADOS: {"post_id":14,"tempo":221}
+REQUISIÇÃO RECEBIDA EM: 04:22:36
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:29:37
+DADOS: {"post_id":14,"tempo":417}
+REQUISIÇÃO RECEBIDA EM: 04:31:54
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 04:32:00
+DADOS: {"post_id":14,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 04:32:55
+DADOS: {"post_id":14,"tempo":45}
+REQUISIÇÃO RECEBIDA EM: 04:32:57
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:35:02
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:35:11
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 04:35:16
+DADOS: {"post_id":14,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 04:35:44
+DADOS: {"post_id":14,"tempo":43}
+REQUISIÇÃO RECEBIDA EM: 04:35:48
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 04:35:53
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 04:35:56
+DADOS: {"post_id":14,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 04:35:59
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:36:04
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:36:10
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:36:37
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:37:48
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:37:49
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:37:54
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:37:55
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:38:01
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:38:10
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 04:39:55
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 04:40:00
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 04:40:04
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:41:10
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 04:41:18
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 14:29:11
+DADOS: {"post_id":14,"tempo":35260}
+REQUISIÇÃO RECEBIDA EM: 15:47:13
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:48:36
+DADOS: {"post_id":14,"tempo":73}
+REQUISIÇÃO RECEBIDA EM: 15:52:31
+DADOS: {"post_id":14,"tempo":234}
+REQUISIÇÃO RECEBIDA EM: 15:52:42
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 15:59:04
+DADOS: {"post_id":14,"tempo":392}
+REQUISIÇÃO RECEBIDA EM: 16:00:12
+DADOS: {"post_id":14,"tempo":68}
+REQUISIÇÃO RECEBIDA EM: 16:00:18
+DADOS: {"post_id":14,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 16:00:29
+DADOS: {"post_id":14,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 16:00:36
+DADOS: {"post_id":14,"tempo":23}
+REQUISIÇÃO RECEBIDA EM: 16:12:23
+DADOS: {"post_id":14,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 16:13:23
+DADOS: {"post_id":17,"tempo":32}
+REQUISIÇÃO RECEBIDA EM: 16:13:25
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 16:13:38
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 16:13:47
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 16:13:50
+DADOS: {"post_id":14,"tempo":13}
+REQUISIÇÃO RECEBIDA EM: 16:14:00
+DADOS: {"post_id":14,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 16:14:01
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 16:14:12
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 16:14:21
+DADOS: {"post_id":21,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 16:14:30
+DADOS: {"post_id":20,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 16:14:46
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 16:14:51
+DADOS: {"post_id":18,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 16:14:53
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 16:18:21
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 16:22:41
+DADOS: {"post_id":21,"tempo":257}
+REQUISIÇÃO RECEBIDA EM: 16:22:49
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 16:22:58
+DADOS: {"post_id":21,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 16:23:04
+DADOS: {"post_id":14,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 16:23:11
+DADOS: {"post_id":14,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 17:53:58
+DADOS: {"post_id":14,"tempo":38}
+REQUISIÇÃO RECEBIDA EM: 17:54:14
+DADOS: {"post_id":14,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 17:54:18
+DADOS: {"post_id":18,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:54:21
+DADOS: {"post_id":18,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:56:28
+DADOS: {"post_id":20,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 17:56:30
+DADOS: {"post_id":17,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 17:56:34
+DADOS: {"post_id":19,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:56:44
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 17:56:47
+DADOS: {"post_id":20,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 17:56:51
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 17:56:55
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 17:56:57
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 17:56:59
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 17:57:03
+DADOS: {"post_id":17,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:57:06
+DADOS: {"post_id":20,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 17:57:08
+DADOS: {"post_id":20,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 17:57:10
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 17:57:13
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 17:57:31
+DADOS: {"post_id":15,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 17:57:33
+DADOS: {"post_id":15,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 17:57:36
+DADOS: {"post_id":15,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 17:57:43
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 01:56:57
+DADOS: {"post_id":15,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 01:59:18
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 01:59:24
+DADOS: {"post_id":14,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 01:59:27
+DADOS: {"post_id":14,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 01:59:31
+DADOS: {"post_id":14,"tempo":23}
+REQUISIÇÃO RECEBIDA EM: 02:03:02
+DADOS: {"post_id":14,"tempo":210}
+REQUISIÇÃO RECEBIDA EM: 02:06:02
+DADOS: {"post_id":14,"tempo":179}
+REQUISIÇÃO RECEBIDA EM: 02:26:48
+DADOS: {"post_id":14,"tempo":1245}
+REQUISIÇÃO RECEBIDA EM: 02:26:50
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 02:35:50
+DADOS: {"post_id":17,"tempo":59}
+REQUISIÇÃO RECEBIDA EM: 02:35:54
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 16:28:59
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 16:43:36
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 16:43:55
+DADOS: {"post_id":19,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 16:43:58
+DADOS: {"post_id":19,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 16:43:59
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 16:44:02
+DADOS: {"post_id":19,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 16:44:16
+DADOS: {"post_id":19,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 16:44:19
+DADOS: {"post_id":19,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 16:57:41
+DADOS: {"post_id":14,"tempo":789}
+REQUISIÇÃO RECEBIDA EM: 16:57:44
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 16:58:02
+DADOS: {"post_id":14,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 16:58:22
+DADOS: {"post_id":14,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 16:59:27
+DADOS: {"post_id":14,"tempo":64}
+REQUISIÇÃO RECEBIDA EM: 16:59:47
+DADOS: {"post_id":14,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 16:59:55
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 17:00:30
+DADOS: {"post_id":14,"tempo":34}
+REQUISIÇÃO RECEBIDA EM: 17:01:04
+DADOS: {"post_id":14,"tempo":34}
+REQUISIÇÃO RECEBIDA EM: 17:01:24
+DADOS: {"post_id":14,"tempo":19}
+REQUISIÇÃO RECEBIDA EM: 17:01:32
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 17:01:42
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 17:01:55
+DADOS: {"post_id":14,"tempo":12}
+REQUISIÇÃO RECEBIDA EM: 17:02:41
+DADOS: {"post_id":14,"tempo":46}
+REQUISIÇÃO RECEBIDA EM: 17:02:59
+DADOS: {"post_id":14,"tempo":17}
+REQUISIÇÃO RECEBIDA EM: 17:03:46
+DADOS: {"post_id":14,"tempo":46}
+REQUISIÇÃO RECEBIDA EM: 17:04:24
+DADOS: {"post_id":14,"tempo":38}
+REQUISIÇÃO RECEBIDA EM: 17:05:15
+DADOS: {"post_id":14,"tempo":50}
+REQUISIÇÃO RECEBIDA EM: 17:06:01
+DADOS: {"post_id":14,"tempo":45}
+REQUISIÇÃO RECEBIDA EM: 17:06:36
+DADOS: {"post_id":14,"tempo":34}
+REQUISIÇÃO RECEBIDA EM: 17:06:58
+DADOS: {"post_id":14,"tempo":21}
+REQUISIÇÃO RECEBIDA EM: 17:07:05
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 17:07:06
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 17:16:59
+DADOS: {"post_id":14,"tempo":591}
+REQUISIÇÃO RECEBIDA EM: 17:17:24
+DADOS: {"post_id":14,"tempo":24}
+REQUISIÇÃO RECEBIDA EM: 17:18:09
+DADOS: {"post_id":14,"tempo":44}
+REQUISIÇÃO RECEBIDA EM: 17:18:18
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 17:18:50
+DADOS: {"post_id":14,"tempo":31}
+REQUISIÇÃO RECEBIDA EM: 17:19:11
+DADOS: {"post_id":14,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 17:21:22
+DADOS: {"post_id":14,"tempo":130}
+REQUISIÇÃO RECEBIDA EM: 17:21:58
+DADOS: {"post_id":14,"tempo":34}
+REQUISIÇÃO RECEBIDA EM: 17:23:33
+DADOS: {"post_id":14,"tempo":95}
+REQUISIÇÃO RECEBIDA EM: 17:39:34
+DADOS: {"post_id":14,"tempo":960}
+REQUISIÇÃO RECEBIDA EM: 17:39:54
+DADOS: {"post_id":14,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 17:40:04
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 17:41:38
+DADOS: {"post_id":14,"tempo":92}
+REQUISIÇÃO RECEBIDA EM: 17:41:56
+DADOS: {"post_id":14,"tempo":18}
+REQUISIÇÃO RECEBIDA EM: 17:42:07
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 17:43:08
+DADOS: {"post_id":14,"tempo":60}
+REQUISIÇÃO RECEBIDA EM: 17:43:23
+DADOS: {"post_id":14,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 17:43:33
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 17:43:57
+DADOS: {"post_id":14,"tempo":23}
+REQUISIÇÃO RECEBIDA EM: 17:44:34
+DADOS: {"post_id":14,"tempo":37}
+REQUISIÇÃO RECEBIDA EM: 17:45:23
+DADOS: {"post_id":14,"tempo":48}
+REQUISIÇÃO RECEBIDA EM: 17:53:08
+DADOS: {"post_id":14,"tempo":464}
+REQUISIÇÃO RECEBIDA EM: 17:54:05
+DADOS: {"post_id":14,"tempo":56}
+REQUISIÇÃO RECEBIDA EM: 17:54:40
+DADOS: {"post_id":14,"tempo":35}
+REQUISIÇÃO RECEBIDA EM: 17:54:43
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 17:54:54
+DADOS: {"post_id":14,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 17:54:58
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 17:55:05
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 17:56:40
+DADOS: {"post_id":14,"tempo":94}
+REQUISIÇÃO RECEBIDA EM: 17:56:47
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 17:56:56
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 17:57:22
+DADOS: {"post_id":14,"tempo":26}
+REQUISIÇÃO RECEBIDA EM: 17:57:32
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 17:57:41
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 17:57:51
+DADOS: {"post_id":14,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 17:58:14
+DADOS: {"post_id":14,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 18:16:05
+DADOS: {"post_id":14,"tempo":1070}
+REQUISIÇÃO RECEBIDA EM: 18:16:38
+DADOS: {"post_id":14,"tempo":31}
+REQUISIÇÃO RECEBIDA EM: 18:17:56
+DADOS: {"post_id":14,"tempo":77}
+REQUISIÇÃO RECEBIDA EM: 18:18:47
+DADOS: {"post_id":14,"tempo":50}
+REQUISIÇÃO RECEBIDA EM: 18:18:52
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 18:19:29
+DADOS: {"post_id":16,"tempo":36}
+REQUISIÇÃO RECEBIDA EM: 18:19:39
+DADOS: {"post_id":16,"tempo":9}
+REQUISIÇÃO RECEBIDA EM: 18:19:46
+DADOS: {"post_id":16,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 00:57:40
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 01:00:27
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 01:00:32
+DADOS: {"post_id":18,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 01:00:35
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 01:01:57
+DADOS: {"post_id":18,"tempo":87}
+REQUISIÇÃO RECEBIDA EM: 01:02:03
+DADOS: {"post_id":18,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 01:02:06
+DADOS: {"post_id":16,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 01:02:29
+DADOS: {"post_id":18,"tempo":31}
+REQUISIÇÃO RECEBIDA EM: 01:02:35
+DADOS: {"post_id":18,"tempo":5}
+REQUISIÇÃO RECEBIDA EM: 01:03:08
+DADOS: {"post_id":18,"tempo":38}
+REQUISIÇÃO RECEBIDA EM: 01:03:12
+DADOS: {"post_id":18,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 01:03:32
+DADOS: {"post_id":18,"tempo":22}
+REQUISIÇÃO RECEBIDA EM: 01:03:40
+DADOS: {"post_id":18,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 01:03:47
+DADOS: {"post_id":14,"tempo":6}
+REQUISIÇÃO RECEBIDA EM: 01:14:18
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 01:34:53
+DADOS: {"post_id":14,"tempo":14}
+REQUISIÇÃO RECEBIDA EM: 01:35:03
+DADOS: {"post_id":15,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 01:35:14
+DADOS: {"post_id":15,"tempo":10}
+REQUISIÇÃO RECEBIDA EM: 16:47:49
+DADOS: {"post_id":14,"tempo":30}
+REQUISIÇÃO RECEBIDA EM: 16:48:08
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 16:48:12
+DADOS: {"post_id":19,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 16:48:29
+DADOS: {"post_id":19,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 16:49:34
+DADOS: {"post_id":14,"tempo":0}
+REQUISIÇÃO RECEBIDA EM: 16:49:51
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 15:34:02
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 15:34:36
+DADOS: {"post_id":19,"tempo":33}
+REQUISIÇÃO RECEBIDA EM: 15:34:37
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 15:34:42
+DADOS: {"post_id":18,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 15:35:11
+DADOS: {"post_id":14,"tempo":35}
+REQUISIÇÃO RECEBIDA EM: 15:35:23
+DADOS: {"post_id":14,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 15:35:27
+DADOS: {"post_id":14,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 15:35:35
+DADOS: {"post_id":14,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 15:35:38
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:35:40
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:36:34
+DADOS: {"post_id":19,"tempo":53}
+REQUISIÇÃO RECEBIDA EM: 15:36:38
+DADOS: {"post_id":19,"tempo":3}
+REQUISIÇÃO RECEBIDA EM: 15:37:06
+DADOS: {"post_id":19,"tempo":31}
+REQUISIÇÃO RECEBIDA EM: 15:37:09
+DADOS: {"post_id":19,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:42:16
+DADOS: {"post_id":15,"tempo":306}
+REQUISIÇÃO RECEBIDA EM: 15:42:28
+DADOS: {"post_id":15,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 15:44:56
+DADOS: {"post_id":15,"tempo":147}
+REQUISIÇÃO RECEBIDA EM: 15:45:38
+DADOS: {"post_id":15,"tempo":40}
+REQUISIÇÃO RECEBIDA EM: 15:47:07
+DADOS: {"post_id":15,"tempo":89}
+REQUISIÇÃO RECEBIDA EM: 15:47:25
+DADOS: {"post_id":15,"tempo":16}
+REQUISIÇÃO RECEBIDA EM: 15:47:40
+DADOS: {"post_id":14,"tempo":15}
+REQUISIÇÃO RECEBIDA EM: 15:47:48
+DADOS: {"post_id":17,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 15:48:13
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 15:48:21
+DADOS: {"post_id":14,"tempo":11}
+REQUISIÇÃO RECEBIDA EM: 15:48:26
+DADOS: {"post_id":18,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 15:48:29
+DADOS: {"post_id":18,"tempo":7}
+REQUISIÇÃO RECEBIDA EM: 15:48:30
+DADOS: {"post_id":14,"tempo":20}
+REQUISIÇÃO RECEBIDA EM: 15:48:45
+DADOS: {"post_id":14,"tempo":4}
+REQUISIÇÃO RECEBIDA EM: 15:48:49
+DADOS: {"post_id":14,"tempo":8}
+REQUISIÇÃO RECEBIDA EM: 15:50:21
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:54:07
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 15:54:11
+DADOS: {"post_id":20,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:58:38
+DADOS: {"post_id":15,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 15:58:42
+DADOS: {"post_id":14,"tempo":1}
+REQUISIÇÃO RECEBIDA EM: 15:58:50
+DADOS: {"post_id":14,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:58:54
+DADOS: {"post_id":18,"tempo":2}
+REQUISIÇÃO RECEBIDA EM: 15:59:00
+DADOS: {"post_id":18,"tempo":5}

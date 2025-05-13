@@ -123,11 +123,23 @@ $categorias = Categoria::listarTodas();
 <!-- Scripts -->
 <script src="https://cdn.tiny.cloud/1/k2gde27ifw1gwd47l4w5vw3pmy6c8i5k9u3hqbb8s0p1t5nt/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
 <script>
-    tinymce.init({
-        selector: '#conteudo',
-        plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
-        toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat'
-    });
+  
+tinymce.init({
+    selector: '#conteudo',
+    plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+    toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | codesample | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+    menubar: false, // opcional: remove menu de cima
+    content_css: 'default',
+    codesample_languages: [
+        {text: 'HTML/XML', value: 'markup'},
+        {text: 'JavaScript', value: 'javascript'},
+        {text: 'PHP', value: 'php'},
+        {text: 'CSS', value: 'css'},
+        {text: 'Python', value: 'python'}
+    ]
+});
+
+
 
     const tagsInput = document.getElementById('tagsInput');
     const tagsHiddenInput = document.getElementById('tags');

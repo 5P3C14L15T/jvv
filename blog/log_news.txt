@@ -1,0 +1,74 @@
+📩 06:15:21 - POST: Array
+(
+    [nome] => João
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📩 06:15:29 - POST: Array
+(
+    [nome] => João
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📩 06:15:37 - POST: Array
+(
+    [nome] => João
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📩 06:20:36 - POST: Array
+(
+    [nome] => joão
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📧 ERRO EMAIL: SMTP Error: Could not authenticate.
+📩 06:23:22 - POST: Array
+(
+    [nome] => João
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📧 ERRO EMAIL: SMTP Error: Could not authenticate.
+📩 06:24:36 - POST: Array
+(
+    [nome] => João
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📩 06:43:25 - POST: Array
+(
+    [nome] => João
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📩 06:56:57 - POST: Array
+(
+    [nome] => João
+    [email] => joaovictorvieira@outlook.com.br
+    [post_id] => 15
+)
+📩 23:19:27 - POST: Array
+(
+    [nome] => rere
+    [email] => joj@joj.com
+    [post_id] => 16
+)
+📩 23:21:42 - POST: Array
+(
+    [nome] => jojoj
+    [email] => jojojojjo@gmail.com
+    [post_id] => 16
+)
+📩 23:22:08 - POST: Array
+(
+    [nome] => testando
+    [email] => testando@gmail.com
+    [post_id] => 15
+)
+📩 02:45:32 - POST: Array
+(
+    [nome] => joao
+    [email] => joaaaaa@gmail.com
+    [post_id] => 14
+)

@@ -1,0 +1,30 @@
+# Ativar o mod_rewrite
+RewriteEngine On
+RewriteBase /agenciajvv/blog/
+
+# URL amigável para posts
+RewriteRule ^([a-zA-Z0-9-]+)\.html$ post.php?slug=$1 [L]
+
+# URL amigável para categorias
+RewriteRule ^categoria/([a-zA-Z0-9-]+)/?$ categoria.php?slug=$1 [L]
+
+# Página 404 amigável (opcional)
+ErrorDocument 404 /agenciajvv/blog/404.php
+
+
+# Ativar compressão Gzip
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Cache de arquivos estáticos (CSS, JS, imagens)
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 30 days"
+    ExpiresByType text/javascript "access plus 30 days"
+    ExpiresByType application/javascript "access plus 30 days"
+    ExpiresByType image/jpeg "access plus 30 days"
+    ExpiresByType image/png "access plus 30 days"
+    ExpiresByType image/webp "access plus 30 days"
+    ExpiresByType image/svg+xml "access plus 30 days"
+</IfModule>

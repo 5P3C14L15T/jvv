@@ -218,4 +218,45 @@ class Post
         $offset = ($pagina - 1) * $limite;
         return self::listarTodos($limite, $offset, $busca);
     }
+
+    // contato quantos posts temos em casa status
+    public static function contarPostsPorStatus()
+    {
+        $pdo = Conexao::conectar();
+        $sql = "SELECT status, COUNT(*) AS total FROM posts GROUP BY status";
+        $stmt = $pdo->prepare($sql);
+        $stmt->execute();
+        return $stmt->fetchAll(PDO::FETCH_ASSOC);
+    }
+
+    public static function listarTopVisualizacoes($limite = 5)
+    {
+        $pdo = Conexao::conectar();
+        $sql = "SELECT titulo, visualizacoes 
+            FROM posts 
+            WHERE status = 'publicado' 
+            ORDER BY visualizacoes DESC 
+            LIMIT :limite";
+        $stmt = $pdo->prepare($sql);
+        $stmt->bindValue(':limite', $limite, PDO::PARAM_INT);
+        $stmt->execute();
+        return $stmt->fetchAll(PDO::FETCH_ASSOC);
+    }
+
+    public static function listarUltimos($limite = 5)
+    {
+        $pdo = Conexao::conectar();
+        $sql = "SELECT id, titulo, status, criado_em FROM posts ORDER BY criado_em DESC LIMIT :limite";
+        $stmt = $pdo->prepare($sql);
+        $stmt->bindValue(':limite', (int)$limite, PDO::PARAM_INT);
+        $stmt->execute();
+        return $stmt->fetchAll(PDO::FETCH_ASSOC);
+    }
+    public static function contarTotalVisualizacoes()
+    {
+        $pdo = Conexao::conectar();
+        $sql = "SELECT SUM(visualizacoes) AS total FROM posts WHERE visualizacoes IS NOT NULL";
+        $stmt = $pdo->query($sql);
+        return (int) $stmt->fetch(PDO::FETCH_ASSOC)['total'];
+    }
 }

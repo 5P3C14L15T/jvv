@@ -1,0 +1,1368 @@
+🟡 Entrou no método com post_id=15, tempo=3340, ip=127.0.0.1
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🟡 Entrou no método com post_id=15, tempo=4, ip=127.0.0.1
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🔍 Verificando IP 127.0.0.1 para post 15
+❌ Nenhum registro encontrado para IP 127.0.0.1 no post 15
+🟡 Entrou registrarTempoPermanencia | post_id=15 | tempo=13 | ip=127.0.0.1
+❌ Nenhuma linha atualizada para IP 127.0.0.1
+🟡 Entrou registrarTempoPermanencia | post_id=15 | tempo=48 | ip=127.0.0.1
+❌ Nenhuma linha atualizada para IP 127.0.0.1
+🟡 Entrou registrarTempoPermanencia | post_id=15 | tempo=3 | ip=127.0.0.1
+❌ Nenhuma linha atualizada para IP 127.0.0.1
+🟡 Entrou registrarTempoPermanencia | post_id=15 | tempo=3 | ip=127.0.0.1
+❌ Nenhuma linha atualizada para IP 127.0.0.1
+🟡 Entrou registrarTempoPermanencia | post_id=15 | tempo=5 | ip=127.0.0.1
+❌ Nenhuma linha atualizada para IP 127.0.0.1
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 123
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 15
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 98
+✅ Atualizado tempo_segundos (id 6) +98 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 147
+✅ Atualizado tempo_segundos (id 6) +147 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 10
+✅ Atualizado tempo_segundos (id 6) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 12
+✅ Atualizado tempo_segundos (id 7) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 29
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 14
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 9
+✅ Atualizado tempo_segundos (id 8) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 9) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 9) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 14
+✅ Atualizado tempo_segundos (id 9) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 6
+✅ Atualizado tempo_segundos (id 8) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 12
+✅ Atualizado tempo_segundos (id 10) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 3
+✅ Atualizado tempo_segundos (id 8) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 37
+✅ Atualizado tempo_segundos (id 8) +37 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 20
+✅ Atualizado tempo_segundos (id 8) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 10
+✅ Atualizado tempo_segundos (id 8) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 50
+✅ Atualizado tempo_segundos (id 8) +50 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 191
+✅ Atualizado tempo_segundos (id 8) +191 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 435
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 15
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 83
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 15
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 14
+✅ Atualizado tempo_segundos (id 12) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 71
+✅ Atualizado tempo_segundos (id 13) +71 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 1
+✅ Atualizado tempo_segundos (id 13) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 133
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 14
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 248
+✅ Atualizado tempo_segundos (id 15) +248 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 16) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 8
+✅ Atualizado tempo_segundos (id 17) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 18) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 505
+✅ Atualizado tempo_segundos (id 19) +505 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 143
+✅ Atualizado tempo_segundos (id 17) +143 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 54
+✅ Atualizado tempo_segundos (id 17) +54 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 86
+✅ Atualizado tempo_segundos (id 17) +86 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 47
+✅ Atualizado tempo_segundos (id 17) +47 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 863
+✅ Atualizado tempo_segundos (id 19) +863 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 116
+✅ Atualizado tempo_segundos (id 19) +116 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 154
+✅ Atualizado tempo_segundos (id 19) +154 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 7
+✅ Atualizado tempo_segundos (id 19) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 48
+✅ Atualizado tempo_segundos (id 19) +48 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 4
+✅ Atualizado tempo_segundos (id 19) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 6
+✅ Atualizado tempo_segundos (id 19) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 3
+✅ Atualizado tempo_segundos (id 17) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 174
+✅ Atualizado tempo_segundos (id 19) +174 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 28
+✅ Atualizado tempo_segundos (id 19) +28 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 34
+✅ Atualizado tempo_segundos (id 19) +34 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 137
+✅ Atualizado tempo_segundos (id 19) +137 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 76
+✅ Atualizado tempo_segundos (id 19) +76 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 177
+✅ Atualizado tempo_segundos (id 19) +177 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 47
+✅ Atualizado tempo_segundos (id 19) +47 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 13
+✅ Atualizado tempo_segundos (id 19) +13 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 25
+✅ Atualizado tempo_segundos (id 19) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 172
+✅ Atualizado tempo_segundos (id 19) +172 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 86
+✅ Atualizado tempo_segundos (id 19) +86 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 35
+✅ Atualizado tempo_segundos (id 19) +35 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 136
+✅ Atualizado tempo_segundos (id 19) +136 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 24
+✅ Atualizado tempo_segundos (id 19) +24 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 25
+✅ Atualizado tempo_segundos (id 19) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 44
+✅ Atualizado tempo_segundos (id 19) +44 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 3
+✅ Atualizado tempo_segundos (id 19) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 120
+✅ Atualizado tempo_segundos (id 19) +120 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 24
+✅ Atualizado tempo_segundos (id 19) +24 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 35
+✅ Atualizado tempo_segundos (id 19) +35 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 96
+✅ Atualizado tempo_segundos (id 19) +96 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 121
+✅ Atualizado tempo_segundos (id 19) +121 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 176
+✅ Atualizado tempo_segundos (id 19) +176 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 87
+✅ Atualizado tempo_segundos (id 19) +87 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 9
+✅ Atualizado tempo_segundos (id 19) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 31
+✅ Atualizado tempo_segundos (id 19) +31 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 25
+✅ Atualizado tempo_segundos (id 19) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 208
+✅ Atualizado tempo_segundos (id 19) +208 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 54
+✅ Atualizado tempo_segundos (id 17) +54 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 116
+✅ Atualizado tempo_segundos (id 17) +116 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 58
+✅ Atualizado tempo_segundos (id 17) +58 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 340
+✅ Atualizado tempo_segundos (id 17) +340 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 25
+✅ Atualizado tempo_segundos (id 17) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 5
+✅ Atualizado tempo_segundos (id 17) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 54
+✅ Atualizado tempo_segundos (id 19) +54 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 119
+✅ Atualizado tempo_segundos (id 19) +119 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 70
+✅ Atualizado tempo_segundos (id 19) +70 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 121
+✅ Atualizado tempo_segundos (id 19) +121 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 114
+✅ Atualizado tempo_segundos (id 19) +114 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 34
+✅ Atualizado tempo_segundos (id 19) +34 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 151
+✅ Atualizado tempo_segundos (id 19) +151 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 1
+✅ Atualizado tempo_segundos (id 19) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 19
+✅ Atualizado tempo_segundos (id 19) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 11
+✅ Atualizado tempo_segundos (id 19) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 17
+✅ Atualizado tempo_segundos (id 19) +17 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 13
+✅ Atualizado tempo_segundos (id 19) +13 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 1
+✅ Atualizado tempo_segundos (id 19) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 15
+✅ Atualizado tempo_segundos (id 19) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 3
+✅ Atualizado tempo_segundos (id 19) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 12
+✅ Atualizado tempo_segundos (id 19) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 25
+✅ Atualizado tempo_segundos (id 19) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 11
+✅ Atualizado tempo_segundos (id 19) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 8
+✅ Atualizado tempo_segundos (id 19) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 305
+✅ Atualizado tempo_segundos (id 19) +305 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 1
+✅ Atualizado tempo_segundos (id 19) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 12714
+✅ Atualizado tempo_segundos (id 17) +12714 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 22
+✅ Atualizado tempo_segundos (id 17) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 89
+✅ Atualizado tempo_segundos (id 17) +89 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 86
+✅ Atualizado tempo_segundos (id 17) +86 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 141
+✅ Atualizado tempo_segundos (id 17) +141 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 2
+✅ Atualizado tempo_segundos (id 17) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 88
+✅ Atualizado tempo_segundos (id 17) +88 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 5
+✅ Atualizado tempo_segundos (id 17) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 31
+✅ Atualizado tempo_segundos (id 17) +31 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 10
+✅ Atualizado tempo_segundos (id 17) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 56
+✅ Atualizado tempo_segundos (id 17) +56 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 15
+✅ Atualizado tempo_segundos (id 17) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 25
+✅ Atualizado tempo_segundos (id 17) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 37
+✅ Atualizado tempo_segundos (id 17) +37 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 50
+✅ Atualizado tempo_segundos (id 17) +50 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 176
+✅ Atualizado tempo_segundos (id 18) +176 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 35
+✅ Atualizado tempo_segundos (id 18) +35 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 45
+✅ Atualizado tempo_segundos (id 18) +45 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 117
+✅ Atualizado tempo_segundos (id 18) +117 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 27
+✅ Atualizado tempo_segundos (id 18) +27 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 30
+✅ Atualizado tempo_segundos (id 18) +30 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 19
+✅ Atualizado tempo_segundos (id 18) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 19
+✅ Atualizado tempo_segundos (id 18) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 29
+✅ Atualizado tempo_segundos (id 18) +29 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 18
+✅ Atualizado tempo_segundos (id 18) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 16
+✅ Atualizado tempo_segundos (id 18) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 18
+✅ Atualizado tempo_segundos (id 18) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 19
+✅ Atualizado tempo_segundos (id 18) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 124
+✅ Atualizado tempo_segundos (id 18) +124 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 27
+✅ Atualizado tempo_segundos (id 18) +27 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 45
+✅ Atualizado tempo_segundos (id 18) +45 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 14
+✅ Atualizado tempo_segundos (id 18) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 50
+✅ Atualizado tempo_segundos (id 18) +50 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 33
+✅ Atualizado tempo_segundos (id 18) +33 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 12
+✅ Atualizado tempo_segundos (id 18) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 22
+✅ Atualizado tempo_segundos (id 17) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8128
+✅ Atualizado tempo_segundos (id 18) +8128 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 57
+✅ Atualizado tempo_segundos (id 18) +57 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 18
+✅ Atualizado tempo_segundos (id 18) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 313
+✅ Atualizado tempo_segundos (id 18) +313 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 207
+✅ Atualizado tempo_segundos (id 18) +207 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 90
+✅ Atualizado tempo_segundos (id 18) +90 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 44
+✅ Atualizado tempo_segundos (id 18) +44 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 22
+✅ Atualizado tempo_segundos (id 18) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 156
+✅ Atualizado tempo_segundos (id 18) +156 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 370
+✅ Atualizado tempo_segundos (id 18) +370 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 61
+✅ Atualizado tempo_segundos (id 18) +61 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 25
+✅ Atualizado tempo_segundos (id 18) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 184
+✅ Atualizado tempo_segundos (id 18) +184 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 74
+✅ Atualizado tempo_segundos (id 18) +74 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 120
+✅ Atualizado tempo_segundos (id 18) +120 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 26
+✅ Atualizado tempo_segundos (id 18) +26 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6951
+✅ Atualizado tempo_segundos (id 18) +6951 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 26
+✅ Atualizado tempo_segundos (id 18) +26 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 149
+✅ Atualizado tempo_segundos (id 18) +149 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 166
+✅ Atualizado tempo_segundos (id 18) +166 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 146
+✅ Atualizado tempo_segundos (id 18) +146 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 144
+✅ Atualizado tempo_segundos (id 18) +144 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 226
+✅ Atualizado tempo_segundos (id 18) +226 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 85
+✅ Atualizado tempo_segundos (id 18) +85 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 443
+✅ Atualizado tempo_segundos (id 18) +443 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 197
+✅ Atualizado tempo_segundos (id 18) +197 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 145
+✅ Atualizado tempo_segundos (id 18) +145 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 155
+✅ Atualizado tempo_segundos (id 18) +155 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 160
+✅ Atualizado tempo_segundos (id 18) +160 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 392
+✅ Atualizado tempo_segundos (id 18) +392 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 40
+✅ Atualizado tempo_segundos (id 18) +40 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 532
+✅ Atualizado tempo_segundos (id 18) +532 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 2064
+✅ Atualizado tempo_segundos (id 17) +2064 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 87089
+✅ Atualizado tempo_segundos (id 17) +87089 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 402
+✅ Atualizado tempo_segundos (id 17) +402 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 48
+✅ Atualizado tempo_segundos (id 17) +48 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 60
+✅ Atualizado tempo_segundos (id 17) +60 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 8
+✅ Atualizado tempo_segundos (id 17) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 288
+✅ Atualizado tempo_segundos (id 17) +288 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 17
+✅ Atualizado tempo_segundos (id 17) +17 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 159
+✅ Atualizado tempo_segundos (id 17) +159 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 74
+✅ Atualizado tempo_segundos (id 17) +74 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1126
+✅ Atualizado tempo_segundos (id 17) +1126 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 808
+✅ Atualizado tempo_segundos (id 17) +808 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 193
+✅ Atualizado tempo_segundos (id 17) +193 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1225
+✅ Atualizado tempo_segundos (id 17) +1225 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 123
+✅ Atualizado tempo_segundos (id 17) +123 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 575
+✅ Atualizado tempo_segundos (id 17) +575 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 96
+✅ Atualizado tempo_segundos (id 17) +96 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 64352
+✅ Atualizado tempo_segundos (id 17) +64352 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 661
+✅ Atualizado tempo_segundos (id 17) +661 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 22
+✅ Atualizado tempo_segundos (id 17) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 15
+✅ Atualizado tempo_segundos (id 17) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 6104
+✅ Atualizado tempo_segundos (id 17) +6104 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 38
+✅ Atualizado tempo_segundos (id 17) +38 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 41
+✅ Atualizado tempo_segundos (id 17) +41 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 14
+✅ Atualizado tempo_segundos (id 17) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 49
+✅ Atualizado tempo_segundos (id 17) +49 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 122
+✅ Atualizado tempo_segundos (id 17) +122 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 35
+✅ Atualizado tempo_segundos (id 17) +35 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 252
+✅ Atualizado tempo_segundos (id 17) +252 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 30
+✅ Atualizado tempo_segundos (id 17) +30 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 10
+✅ Atualizado tempo_segundos (id 17) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 26
+✅ Atualizado tempo_segundos (id 17) +26 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 23
+✅ Atualizado tempo_segundos (id 17) +23 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 84
+✅ Atualizado tempo_segundos (id 17) +84 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 85
+✅ Atualizado tempo_segundos (id 17) +85 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 37
+✅ Atualizado tempo_segundos (id 17) +37 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 20
+✅ Atualizado tempo_segundos (id 17) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 7
+✅ Atualizado tempo_segundos (id 17) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 323
+✅ Atualizado tempo_segundos (id 17) +323 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 16
+✅ Atualizado tempo_segundos (id 17) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 58
+✅ Atualizado tempo_segundos (id 17) +58 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 125
+✅ Atualizado tempo_segundos (id 17) +125 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1
+✅ Atualizado tempo_segundos (id 17) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 2
+✅ Atualizado tempo_segundos (id 17) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1
+✅ Atualizado tempo_segundos (id 17) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1
+✅ Atualizado tempo_segundos (id 17) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 2
+✅ Atualizado tempo_segundos (id 17) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 7
+✅ Atualizado tempo_segundos (id 17) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 7
+✅ Atualizado tempo_segundos (id 17) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 284
+✅ Atualizado tempo_segundos (id 17) +284 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 82
+✅ Atualizado tempo_segundos (id 17) +82 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 263
+✅ Atualizado tempo_segundos (id 17) +263 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 75
+✅ Atualizado tempo_segundos (id 17) +75 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 6
+✅ Atualizado tempo_segundos (id 17) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 25
+✅ Atualizado tempo_segundos (id 17) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 47
+✅ Atualizado tempo_segundos (id 17) +47 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 22
+✅ Atualizado tempo_segundos (id 17) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 27
+✅ Atualizado tempo_segundos (id 17) +27 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 39
+✅ Atualizado tempo_segundos (id 17) +39 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 254
+✅ Atualizado tempo_segundos (id 17) +254 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 35
+✅ Atualizado tempo_segundos (id 17) +35 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 58
+✅ Atualizado tempo_segundos (id 17) +58 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 9
+✅ Atualizado tempo_segundos (id 17) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 4
+✅ Atualizado tempo_segundos (id 19) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 5
+✅ Atualizado tempo_segundos (id 18) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 127
+✅ Atualizado tempo_segundos (id 17) +127 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 45
+✅ Atualizado tempo_segundos (id 17) +45 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 124
+✅ Atualizado tempo_segundos (id 17) +124 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 10
+✅ Atualizado tempo_segundos (id 17) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 369
+✅ Atualizado tempo_segundos (id 17) +369 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 23
+✅ Atualizado tempo_segundos (id 17) +23 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 61
+✅ Atualizado tempo_segundos (id 17) +61 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 24
+✅ Atualizado tempo_segundos (id 17) +24 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 113
+✅ Atualizado tempo_segundos (id 17) +113 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 54
+✅ Atualizado tempo_segundos (id 17) +54 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 287
+✅ Atualizado tempo_segundos (id 17) +287 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 8
+✅ Atualizado tempo_segundos (id 17) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 253
+✅ Atualizado tempo_segundos (id 17) +253 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 120
+✅ Atualizado tempo_segundos (id 17) +120 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 22
+✅ Atualizado tempo_segundos (id 17) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 51
+✅ Atualizado tempo_segundos (id 18) +51 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 51
+✅ Atualizado tempo_segundos (id 18) +51 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 23
+✅ Atualizado tempo_segundos (id 18) +23 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 58
+✅ Atualizado tempo_segundos (id 17) +58 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 11
+✅ Atualizado tempo_segundos (id 17) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 7
+✅ Atualizado tempo_segundos (id 19) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 85
+✅ Atualizado tempo_segundos (id 18) +85 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 77591
+✅ Atualizado tempo_segundos (id 17) +77591 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 3
+✅ Atualizado tempo_segundos (id 17) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 56
+✅ Atualizado tempo_segundos (id 17) +56 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 12
+✅ Atualizado tempo_segundos (id 17) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 24
+✅ Atualizado tempo_segundos (id 17) +24 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 168
+✅ Atualizado tempo_segundos (id 17) +168 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 207
+✅ Atualizado tempo_segundos (id 17) +207 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 14
+✅ Atualizado tempo_segundos (id 17) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 32
+✅ Atualizado tempo_segundos (id 17) +32 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 32
+✅ Atualizado tempo_segundos (id 17) +32 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 14
+✅ Atualizado tempo_segundos (id 17) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 41
+✅ Atualizado tempo_segundos (id 17) +41 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 36
+✅ Atualizado tempo_segundos (id 17) +36 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 22
+✅ Atualizado tempo_segundos (id 17) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 7
+✅ Atualizado tempo_segundos (id 17) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 147
+✅ Atualizado tempo_segundos (id 17) +147 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 39
+✅ Atualizado tempo_segundos (id 17) +39 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 25
+✅ Atualizado tempo_segundos (id 17) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 2
+✅ Atualizado tempo_segundos (id 17) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 190
+✅ Atualizado tempo_segundos (id 17) +190 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 5
+✅ Atualizado tempo_segundos (id 17) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 1
+✅ Atualizado tempo_segundos (id 19) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 273
+✅ Atualizado tempo_segundos (id 17) +273 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 118
+✅ Atualizado tempo_segundos (id 17) +118 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 365
+✅ Atualizado tempo_segundos (id 17) +365 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 373
+✅ Atualizado tempo_segundos (id 17) +373 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 374
+✅ Atualizado tempo_segundos (id 17) +374 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 380
+✅ Atualizado tempo_segundos (id 17) +380 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 382
+✅ Atualizado tempo_segundos (id 17) +382 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 6
+✅ Atualizado tempo_segundos (id 17) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 138
+✅ Atualizado tempo_segundos (id 17) +138 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 15
+✅ Atualizado tempo_segundos (id 17) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 5
+✅ Atualizado tempo_segundos (id 19) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 135
+✅ Atualizado tempo_segundos (id 19) +135 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 15
+✅ Atualizado tempo_segundos (id 19) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 32
+✅ Atualizado tempo_segundos (id 17) +32 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 24
+✅ Atualizado tempo_segundos (id 18) +24 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 63
+✅ Atualizado tempo_segundos (id 18) +63 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 69
+✅ Atualizado tempo_segundos (id 18) +69 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 110
+✅ Atualizado tempo_segundos (id 18) +110 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 20
+✅ Atualizado tempo_segundos (id 18) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10512
+✅ Atualizado tempo_segundos (id 18) +10512 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 86
+✅ Atualizado tempo_segundos (id 18) +86 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 48
+✅ Atualizado tempo_segundos (id 18) +48 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 12
+✅ Atualizado tempo_segundos (id 18) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 84
+✅ Atualizado tempo_segundos (id 18) +84 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 21
+✅ Atualizado tempo_segundos (id 18) +21 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 68
+✅ Atualizado tempo_segundos (id 18) +68 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 15
+✅ Atualizado tempo_segundos (id 18) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 91
+✅ Atualizado tempo_segundos (id 18) +91 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 49
+✅ Atualizado tempo_segundos (id 18) +49 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 14
+✅ Atualizado tempo_segundos (id 18) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 21
+✅ Atualizado tempo_segundos (id 18) +21 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 29
+✅ Atualizado tempo_segundos (id 18) +29 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 77
+✅ Atualizado tempo_segundos (id 18) +77 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 97
+✅ Atualizado tempo_segundos (id 18) +97 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 11
+✅ Atualizado tempo_segundos (id 18) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 40
+✅ Atualizado tempo_segundos (id 18) +40 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 16
+✅ Atualizado tempo_segundos (id 18) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 80
+✅ Atualizado tempo_segundos (id 18) +80 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 38
+✅ Atualizado tempo_segundos (id 18) +38 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 20
+✅ Atualizado tempo_segundos (id 18) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 32
+✅ Atualizado tempo_segundos (id 18) +32 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 19
+✅ Atualizado tempo_segundos (id 18) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 107
+✅ Atualizado tempo_segundos (id 18) +107 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 20
+✅ Atualizado tempo_segundos (id 18) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 113
+✅ Atualizado tempo_segundos (id 18) +113 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 71
+✅ Atualizado tempo_segundos (id 18) +71 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 28
+✅ Atualizado tempo_segundos (id 18) +28 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 18) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 46
+✅ Atualizado tempo_segundos (id 18) +46 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 56
+✅ Atualizado tempo_segundos (id 18) +56 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 26
+✅ Atualizado tempo_segundos (id 18) +26 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 34
+✅ Atualizado tempo_segundos (id 18) +34 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 59
+✅ Atualizado tempo_segundos (id 18) +59 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 14
+✅ Atualizado tempo_segundos (id 18) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1841
+✅ Atualizado tempo_segundos (id 18) +1841 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 25
+✅ Atualizado tempo_segundos (id 18) +25 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 204
+✅ Atualizado tempo_segundos (id 18) +204 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 39
+✅ Atualizado tempo_segundos (id 18) +39 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 52
+✅ Atualizado tempo_segundos (id 18) +52 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 40
+✅ Atualizado tempo_segundos (id 18) +40 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 72
+✅ Atualizado tempo_segundos (id 18) +72 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 120
+✅ Atualizado tempo_segundos (id 18) +120 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 2
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 20
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 1
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 19
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 1
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 18
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 26
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 17
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 1
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 17
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 24
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 17
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 61
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 18
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 62
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 19
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 69
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 20
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 12
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 17
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 3
+✅ Atualizado tempo_segundos (id 19) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 62
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 17
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 77
+✅ Atualizado tempo_segundos (id 20) +77 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 15
+✅ Atualizado tempo_segundos (id 20) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 6
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 17
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 4
+✅ Atualizado tempo_segundos (id 21) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 104
+✅ Atualizado tempo_segundos (id 21) +104 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 101
+✅ Atualizado tempo_segundos (id 21) +101 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 13
+❌ Nenhum registro de visualização encontrado para IP 127.0.0.1 e post 17
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 74
+✅ Atualizado tempo_segundos (id 22) +74 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 38
+✅ Atualizado tempo_segundos (id 22) +38 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 21
+✅ Atualizado tempo_segundos (id 22) +21 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 539
+✅ Atualizado tempo_segundos (id 22) +539 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 1
+✅ Atualizado tempo_segundos (id 22) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 86
+✅ Atualizado tempo_segundos (id 23) +86 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 7
+✅ Atualizado tempo_segundos (id 23) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 13
+✅ Atualizado tempo_segundos (id 18) +13 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 29
+✅ Atualizado tempo_segundos (id 18) +29 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 7
+✅ Atualizado tempo_segundos (id 22) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 53
+✅ Atualizado tempo_segundos (id 20) +53 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 2
+✅ Atualizado tempo_segundos (id 22) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 3
+✅ Atualizado tempo_segundos (id 20) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 18
+✅ Atualizado tempo_segundos (id 19) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 3
+✅ Atualizado tempo_segundos (id 19) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1
+✅ Atualizado tempo_segundos (id 17) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 5
+✅ Atualizado tempo_segundos (id 18) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 2
+✅ Atualizado tempo_segundos (id 22) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 3
+✅ Atualizado tempo_segundos (id 21) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 50
+✅ Atualizado tempo_segundos (id 18) +50 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 39
+✅ Atualizado tempo_segundos (id 21) +39 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 1
+✅ Atualizado tempo_segundos (id 21) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 10
+✅ Atualizado tempo_segundos (id 22) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 107
+✅ Atualizado tempo_segundos (id 18) +107 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 5
+✅ Atualizado tempo_segundos (id 18) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 221
+✅ Atualizado tempo_segundos (id 18) +221 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 417
+✅ Atualizado tempo_segundos (id 18) +417 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 16
+✅ Atualizado tempo_segundos (id 18) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 45
+✅ Atualizado tempo_segundos (id 18) +45 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 14
+✅ Atualizado tempo_segundos (id 18) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 43
+✅ Atualizado tempo_segundos (id 18) +43 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 11
+✅ Atualizado tempo_segundos (id 18) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 35260
+✅ Atualizado tempo_segundos (id 18) +35260 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 73
+✅ Atualizado tempo_segundos (id 18) +73 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 234
+✅ Atualizado tempo_segundos (id 18) +234 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 392
+✅ Atualizado tempo_segundos (id 18) +392 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 68
+✅ Atualizado tempo_segundos (id 18) +68 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 5
+✅ Atualizado tempo_segundos (id 18) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 16
+✅ Atualizado tempo_segundos (id 18) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 23
+✅ Atualizado tempo_segundos (id 18) +23 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 5
+✅ Atualizado tempo_segundos (id 18) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 32
+✅ Atualizado tempo_segundos (id 22) +32 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 13
+✅ Atualizado tempo_segundos (id 18) +13 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 22
+✅ Atualizado tempo_segundos (id 18) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 18) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 21 | Tempo: 6
+✅ Atualizado tempo_segundos (id 24) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 3
+✅ Atualizado tempo_segundos (id 20) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 2
+✅ Atualizado tempo_segundos (id 23) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 21 | Tempo: 257
+✅ Atualizado tempo_segundos (id 24) +257 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 18) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 21 | Tempo: 3
+✅ Atualizado tempo_segundos (id 24) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 5
+✅ Atualizado tempo_segundos (id 18) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 5
+✅ Atualizado tempo_segundos (id 18) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 38
+✅ Atualizado tempo_segundos (id 18) +38 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 15
+✅ Atualizado tempo_segundos (id 18) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 3
+✅ Atualizado tempo_segundos (id 23) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 3
+✅ Atualizado tempo_segundos (id 23) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 5
+✅ Atualizado tempo_segundos (id 20) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 2
+✅ Atualizado tempo_segundos (id 22) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 3
+✅ Atualizado tempo_segundos (id 21) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 2
+✅ Atualizado tempo_segundos (id 20) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 3
+✅ Atualizado tempo_segundos (id 22) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 2
+✅ Atualizado tempo_segundos (id 20) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 1
+✅ Atualizado tempo_segundos (id 20) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 14
+✅ Atualizado tempo_segundos (id 17) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 16
+✅ Atualizado tempo_segundos (id 17) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 19
+✅ Atualizado tempo_segundos (id 17) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 4
+✅ Atualizado tempo_segundos (id 17) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 15
+✅ Atualizado tempo_segundos (id 18) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 18
+✅ Atualizado tempo_segundos (id 18) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 23
+✅ Atualizado tempo_segundos (id 18) +23 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 210
+✅ Atualizado tempo_segundos (id 18) +210 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 179
+✅ Atualizado tempo_segundos (id 18) +179 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1245
+✅ Atualizado tempo_segundos (id 18) +1245 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 59
+✅ Atualizado tempo_segundos (id 22) +59 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 18
+✅ Atualizado tempo_segundos (id 21) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 2
+✅ Atualizado tempo_segundos (id 21) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 2
+✅ Atualizado tempo_segundos (id 21) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 12
+✅ Atualizado tempo_segundos (id 21) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 2
+✅ Atualizado tempo_segundos (id 21) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 789
+✅ Atualizado tempo_segundos (id 18) +789 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 18
+✅ Atualizado tempo_segundos (id 18) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 19
+✅ Atualizado tempo_segundos (id 18) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 64
+✅ Atualizado tempo_segundos (id 18) +64 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 20
+✅ Atualizado tempo_segundos (id 18) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 34
+✅ Atualizado tempo_segundos (id 18) +34 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 34
+✅ Atualizado tempo_segundos (id 18) +34 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 19
+✅ Atualizado tempo_segundos (id 18) +19 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 12
+✅ Atualizado tempo_segundos (id 18) +12 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 46
+✅ Atualizado tempo_segundos (id 18) +46 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 17
+✅ Atualizado tempo_segundos (id 18) +17 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 46
+✅ Atualizado tempo_segundos (id 18) +46 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 38
+✅ Atualizado tempo_segundos (id 18) +38 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 50
+✅ Atualizado tempo_segundos (id 18) +50 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 45
+✅ Atualizado tempo_segundos (id 18) +45 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 34
+✅ Atualizado tempo_segundos (id 18) +34 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 21
+✅ Atualizado tempo_segundos (id 18) +21 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 18) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 591
+✅ Atualizado tempo_segundos (id 18) +591 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 24
+✅ Atualizado tempo_segundos (id 18) +24 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 44
+✅ Atualizado tempo_segundos (id 18) +44 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 31
+✅ Atualizado tempo_segundos (id 18) +31 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 20
+✅ Atualizado tempo_segundos (id 18) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 130
+✅ Atualizado tempo_segundos (id 18) +130 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 34
+✅ Atualizado tempo_segundos (id 18) +34 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 95
+✅ Atualizado tempo_segundos (id 18) +95 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 960
+✅ Atualizado tempo_segundos (id 18) +960 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 18
+✅ Atualizado tempo_segundos (id 18) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 92
+✅ Atualizado tempo_segundos (id 18) +92 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 18
+✅ Atualizado tempo_segundos (id 18) +18 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 60
+✅ Atualizado tempo_segundos (id 18) +60 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 14
+✅ Atualizado tempo_segundos (id 18) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 23
+✅ Atualizado tempo_segundos (id 18) +23 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 37
+✅ Atualizado tempo_segundos (id 18) +37 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 48
+✅ Atualizado tempo_segundos (id 18) +48 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 464
+✅ Atualizado tempo_segundos (id 18) +464 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 56
+✅ Atualizado tempo_segundos (id 18) +56 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 35
+✅ Atualizado tempo_segundos (id 18) +35 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 10
+✅ Atualizado tempo_segundos (id 18) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 94
+✅ Atualizado tempo_segundos (id 18) +94 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 18) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 26
+✅ Atualizado tempo_segundos (id 18) +26 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 9
+✅ Atualizado tempo_segundos (id 18) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 22
+✅ Atualizado tempo_segundos (id 18) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1070
+✅ Atualizado tempo_segundos (id 18) +1070 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 31
+✅ Atualizado tempo_segundos (id 18) +31 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 77
+✅ Atualizado tempo_segundos (id 18) +77 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 50
+✅ Atualizado tempo_segundos (id 18) +50 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 36
+✅ Atualizado tempo_segundos (id 19) +36 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 9
+✅ Atualizado tempo_segundos (id 19) +9 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 7
+✅ Atualizado tempo_segundos (id 19) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 3
+✅ Atualizado tempo_segundos (id 23) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 87
+✅ Atualizado tempo_segundos (id 23) +87 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 5
+✅ Atualizado tempo_segundos (id 23) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 16 | Tempo: 2
+✅ Atualizado tempo_segundos (id 19) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 31
+✅ Atualizado tempo_segundos (id 23) +31 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 5
+✅ Atualizado tempo_segundos (id 23) +5 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 38
+✅ Atualizado tempo_segundos (id 23) +38 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 2
+✅ Atualizado tempo_segundos (id 23) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 22
+✅ Atualizado tempo_segundos (id 23) +22 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 7
+✅ Atualizado tempo_segundos (id 23) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 6
+✅ Atualizado tempo_segundos (id 18) +6 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 14
+✅ Atualizado tempo_segundos (id 18) +14 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1
+✅ Atualizado tempo_segundos (id 17) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 10
+✅ Atualizado tempo_segundos (id 17) +10 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 30
+✅ Atualizado tempo_segundos (id 18) +30 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 3
+✅ Atualizado tempo_segundos (id 21) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 16
+✅ Atualizado tempo_segundos (id 21) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 33
+✅ Atualizado tempo_segundos (id 21) +33 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 4
+✅ Atualizado tempo_segundos (id 23) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 35
+✅ Atualizado tempo_segundos (id 18) +35 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 7
+✅ Atualizado tempo_segundos (id 18) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 3
+✅ Atualizado tempo_segundos (id 18) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 11
+✅ Atualizado tempo_segundos (id 18) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 53
+✅ Atualizado tempo_segundos (id 21) +53 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 3
+✅ Atualizado tempo_segundos (id 21) +3 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 31
+✅ Atualizado tempo_segundos (id 21) +31 segundos
+🟡 IP: 127.0.0.1 | PostID: 19 | Tempo: 2
+✅ Atualizado tempo_segundos (id 21) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 306
+✅ Atualizado tempo_segundos (id 17) +306 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 11
+✅ Atualizado tempo_segundos (id 17) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 147
+✅ Atualizado tempo_segundos (id 17) +147 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 40
+✅ Atualizado tempo_segundos (id 17) +40 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 89
+✅ Atualizado tempo_segundos (id 17) +89 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 16
+✅ Atualizado tempo_segundos (id 17) +16 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 15
+✅ Atualizado tempo_segundos (id 18) +15 segundos
+🟡 IP: 127.0.0.1 | PostID: 17 | Tempo: 8
+✅ Atualizado tempo_segundos (id 22) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 11
+✅ Atualizado tempo_segundos (id 18) +11 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 4
+✅ Atualizado tempo_segundos (id 23) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 7
+✅ Atualizado tempo_segundos (id 23) +7 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 20
+✅ Atualizado tempo_segundos (id 18) +20 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 4
+✅ Atualizado tempo_segundos (id 18) +4 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 8
+✅ Atualizado tempo_segundos (id 18) +8 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 20 | Tempo: 2
+✅ Atualizado tempo_segundos (id 20) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 15 | Tempo: 1
+✅ Atualizado tempo_segundos (id 17) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 1
+✅ Atualizado tempo_segundos (id 18) +1 segundos
+🟡 IP: 127.0.0.1 | PostID: 14 | Tempo: 2
+✅ Atualizado tempo_segundos (id 18) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 2
+✅ Atualizado tempo_segundos (id 23) +2 segundos
+🟡 IP: 127.0.0.1 | PostID: 18 | Tempo: 5
+✅ Atualizado tempo_segundos (id 23) +5 segundos

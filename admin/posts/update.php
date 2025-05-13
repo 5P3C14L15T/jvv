@@ -20,6 +20,8 @@ $titulo = $_POST['titulo'] ?? '';
 $id_categoria = $_POST['categoria'] ?? null;
 $resumo = $_POST['resumo'] ?? '';
 $conteudo = $_POST['conteudo'] ?? '';
+
+
 $tags = $_POST['tags'] ?? '';
 $video_url = $_POST['video_url'] ?? '';
 $leitura_min = $_POST['leitura_min'] ?? null;

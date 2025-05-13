@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    background-color: rgb(247, 247, 247) !important;
   }
   #wrapper {
     min-height: 100vh;
@@ -22,6 +23,12 @@ html, body {
   .table td, .table th {
     vertical-align: middle;
   }
+
+  #graficoPostsStatus, #graficoVisualizacoes, #graficoComentarios  {
+    
+   
+}
+
 
 
   

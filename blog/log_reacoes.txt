@@ -1,0 +1,39 @@
+❌ ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'curtirs' in 'field list'
+❌ ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'curtirs' in 'field list'
+❌ ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'curtirs' in 'field list'
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+❌ ERRO PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'curtirs' in 'field list'
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+❌ ERRO PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'descurtirs' in 'field list'
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+❌ ERRO PDO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'curtirs' in 'field list'
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 8 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 6 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: descurtir
+👉 IP: 127.0.0.1 | Comentário: 7 | Tipo: curtir

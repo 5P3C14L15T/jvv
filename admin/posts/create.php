@@ -31,13 +31,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $leitura_min = $_POST['leitura_min'] ?? null;
 
     $conteudo = $_POST['conteudo'] ?? '';
+
+
     $imagem = $_FILES['imagem'] ?? null;
 
     $autor_id = $_SESSION['usuario_id'];
 
 
     $video_url = $_POST['video_url'] ?? '';
-    $destaque = isset($_POST['destaque']) ? 1 : 0;
+    $destaque = isset($_POST['destacado']) ? 1 : 0;
 
 
     // Upload da imagem de capa
@@ -202,12 +204,22 @@ require_once '../includes/footer.php'; ?>
 
 <!-- Place the following <script> and <textarea> tags your HTML's <body> -->
 <script>
-    tinymce.init({
-        selector: '#conteudo',
-        plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
-        toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
-    });
+tinymce.init({
+    selector: '#conteudo',
+    plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount',
+    toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | codesample | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
+    menubar: false, // opcional: remove menu de cima
+    content_css: 'default',
+    codesample_languages: [
+        {text: 'HTML/XML', value: 'markup'},
+        {text: 'JavaScript', value: 'javascript'},
+        {text: 'PHP', value: 'php'},
+        {text: 'CSS', value: 'css'},
+        {text: 'Python', value: 'python'}
+    ]
+});
 </script>
+
 
 <script>
     const tagsInput = document.getElementById('tagsInput');

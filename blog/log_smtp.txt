@@ -1,0 +1,108 @@
+SMTP DEBUG [2]: SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+SMTP DEBUG [1]: CLIENT -> SERVER: EHLO localhost
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+SMTP DEBUG [1]: CLIENT -> SERVER: AUTH LOGIN
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+SMTP DEBUG [1]: CLIENT -> SERVER: [credentials hidden]
+SMTP DEBUG [2]: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+SMTP DEBUG [1]: CLIENT -> SERVER: [credentials hidden]
+SMTP DEBUG [2]: SERVER -> CLIENT: 535 5.7.8 Error: authentication failed: (reason unavailable)
+
+SMTP DEBUG [1]: SMTP ERROR: Password command failed: 535 5.7.8 Error: authentication failed: (reason unavailable)
+
+SMTP DEBUG [2]: SMTP Error: Could not authenticate.
+SMTP DEBUG [1]: CLIENT -> SERVER: QUIT
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 221 2.0.0 Bye
+
+SMTP DEBUG [2]: SMTP Error: Could not authenticate.
+SMTP DEBUG [2]: SERVER -> CLIENT: 220 ESMTP smtp.hostinger.com
+
+SMTP DEBUG [1]: CLIENT -> SERVER: EHLO localhost
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 250-smtp.hostinger.com
+250-PIPELINING
+250-SIZE 48811212
+250-ETRN
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 CHUNKING
+
+SMTP DEBUG [1]: CLIENT -> SERVER: AUTH LOGIN
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+SMTP DEBUG [1]: CLIENT -> SERVER: [credentials hidden]
+SMTP DEBUG [2]: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+SMTP DEBUG [1]: CLIENT -> SERVER: [credentials hidden]
+SMTP DEBUG [2]: SERVER -> CLIENT: 235 2.7.0 Authentication successful
+
+SMTP DEBUG [1]: CLIENT -> SERVER: MAIL FROM:<marketing@joaovictorvieira.com.br>
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 250 2.1.0 Ok
+
+SMTP DEBUG [1]: CLIENT -> SERVER: RCPT TO:<joaovictorvieira@outlook.com.br>
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 250 2.1.5 Ok
+
+SMTP DEBUG [1]: CLIENT -> SERVER: DATA
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+
+SMTP DEBUG [1]: CLIENT -> SERVER: Date: Mon, 21 Apr 2025 01:24:37 -0300
+
+SMTP DEBUG [1]: CLIENT -> SERVER: To: =?iso-8859-1?B?Sm/Do28=?= <joaovictorvieira@outlook.com.br>
+
+SMTP DEBUG [1]: CLIENT -> SERVER: From: =?iso-8859-1?Q?BLOG_Ag=C3=AAncia_JVV?= <marketing@joaovictorvieira.com.br>
+
+SMTP DEBUG [1]: CLIENT -> SERVER: Subject: =?iso-8859-1?Q?Confirma=C3=A7=C3=A3o_de_Inscri=C3=A7=C3=A3o?=
+
+SMTP DEBUG [1]: CLIENT -> SERVER: Message-ID: <3bgWFO4Y7JclGaprGAGyheIfovPEwjqclaoea5J0XUk@localhost>
+
+SMTP DEBUG [1]: CLIENT -> SERVER: X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+
+SMTP DEBUG [1]: CLIENT -> SERVER: MIME-Version: 1.0
+
+SMTP DEBUG [1]: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+
+SMTP DEBUG [1]: CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+SMTP DEBUG [1]: CLIENT -> SERVER: 
+
+SMTP DEBUG [1]: CLIENT -> SERVER: 
+
+SMTP DEBUG [1]: CLIENT -> SERVER:             <h2>Olá, João!</h2>
+
+SMTP DEBUG [1]: CLIENT -> SERVER:             <p>Seu e-mail foi cadastrado com sucesso na nossa newsletter. Em breve você receberá novidades!</p>
+
+SMTP DEBUG [1]: CLIENT -> SERVER:             <p><strong>Obrigado por acompanhar nosso conteúdo!</strong></p>
+
+SMTP DEBUG [1]: CLIENT -> SERVER:         
+
+SMTP DEBUG [1]: CLIENT -> SERVER: 
+
+SMTP DEBUG [1]: CLIENT -> SERVER: .
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4Zgshl5BTJzHTq4c
+
+SMTP DEBUG [1]: CLIENT -> SERVER: QUIT
+
+SMTP DEBUG [2]: SERVER -> CLIENT: 221 2.0.0 Bye
+
